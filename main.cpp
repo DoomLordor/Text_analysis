@@ -49,6 +49,8 @@ int main() {
 			sort_array(teachers[i].keyword, teachers[i].frequency_keyword);
 		}
 
+		sort_array(teachers);
+
 		teacher_profiles(teachers, test_word, frequency_teachers);
 
 		ofstream output_file("output.txt");
