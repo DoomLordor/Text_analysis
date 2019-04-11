@@ -9,7 +9,11 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.txt
+list_of_teachers.txt
+output.txt
+output1.txt
+word.txt
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

@@ -10,11 +10,11 @@ int main() {
 
 	cin >> anser;
 
-	if ((capital_letter(anser) == "YES") or (capital_letter(anser) == "ÄÀ")) {
+	if (capital_letter(anser) == "YES") {
 		
 		vector <string> test_word;
 		vector <int> test_frequency, number_begin;
-		string file_word = "word.txt", file_teacher = "list_of_teachers3.txt", stop_word_way = "stop_word.txt";
+		string file_word = "word.txt", file_teacher = "list_of_teachers.txt", stop_word_way = "stop_word.txt";
 		vector <fio>  teachers;
 
 		vector_word(test_word, test_frequency, file_word);
