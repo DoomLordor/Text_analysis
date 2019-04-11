@@ -54,7 +54,9 @@ void delete_special_character(vector <string>& array_to_sort, vector <int>& freq
 					if (array_to_sort[i].size() == 1) {
 						frequency.erase(frequency.begin() + i);
 						array_to_sort.erase(array_to_sort.begin() + i);
-						i--;
+						if (i > 0) {
+							i--;
+						}
 						j = 0;
 					}
 					else {
@@ -79,7 +81,7 @@ void delete_stop_word(vector <string>& array_to_sort, vector <int>& frequency, s
 	stop_word_file.close();
 	for (size_t i = 0; i < array_to_sort.size(); i++) {
 		for (size_t j = 0; j < stop_word.size(); j++) {
-			if (array_to_sort[i] == stop_word[j]) {
+			if (capital_letter(array_to_sort[i]) == stop_word[j]) {
 				array_to_sort.erase(array_to_sort.begin() + i);
 				frequency.erase(frequency.begin() + i);
 				i--;
@@ -222,8 +224,43 @@ void sort_array(vector<fio>& sort_array) {
 	
 }
 
+void vector_word(vector <string>& input_array, string file_way){
+	fstream input_file(file_way);
+	string word;
+	size_t k = 0;
+	for (size_t i = 0; !input_file.eof(); i++) {
+		input_file >> word;
+		input_array.insert(input_array.end(), word);
+	}
+	input_file.close();
 
+}
 
+void delete_numbers(vector <string>& input_array, vector <int>& frequency) {
+	string number_character = "0123456789";
+	for (size_t i = 0; i < input_array.size(); i++) {
+		for (size_t j = 0; j < number_character.size(); j++) {
+			while (input_array[i].find(number_character[j]) != string::npos) {
+				if (input_array[i].find(number_character[j]) != string::npos) {
+					if (input_array[i].size() == 1) {
+						frequency.erase(frequency.begin() + i);
+						input_array.erase(input_array.begin() + i);
+						j = 0;
+						if (i > 0) {
+							i--;
+						}
+					}
+					else {
+						input_array[i].erase(input_array[i].find(number_character[j]), 1);
+					}
+				}
+
+			}
+		}
+	}
+}
+
+void measure_of_closeness (){}
 
 
 

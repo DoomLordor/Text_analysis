@@ -4,17 +4,19 @@
 int main() {
 	setlocale(LC_ALL, "Russian");
 
+	string stop_word_way = "stop_word.txt";
+
 	cout << "Произвести анализ ключевых слов? \n";
 
 	string anser;
-
+	
 	cin >> anser;
 
 	if (capital_letter(anser) == "YES") {
 		
 		vector <string> test_word;
 		vector <int> test_frequency, number_begin;
-		string file_word = "word.txt", file_teacher = "list_of_teachers.txt", stop_word_way = "stop_word.txt";
+		string file_word = "word.txt", file_teacher = "list_of_teachers.txt";
 		vector <fio>  teachers;
 
 		vector_word(test_word, test_frequency, file_word);
@@ -70,7 +72,7 @@ int main() {
 			for (size_t j = 0; j < 4 - (int)(test_word[i].size() / 8); j++) {
 				output_file1 << '\t';
 			}
-			for (size_t j = teachers.size() - 1; j > 0; j--) {
+			for (size_t j = 0; j < teachers.size(); j++) {
 				output_file1 << '\t' << frequency_teachers[i][j] << '\t';
 			}
 		}
@@ -78,5 +80,37 @@ int main() {
 
 		cout << endl << test_word.size() << endl;
 	}
+	
+	cout << "Произвести анализ содержания курсов? \n";
+	
+	cin >> anser;
+	
+	if (capital_letter(anser) == "YES") {
+		vector <string> word_course;
+		string file_word_course = "word_course.txt";
+
+		vector_word(word_course, file_word_course);
+
+		vector <int> frequency_course(word_course.size(), 1);
+
+		delete_special_character(word_course, frequency_course);
+
+		delete_stop_word(word_course, frequency_course, stop_word_way);
+
+		delete_numbers(word_course, frequency_course);
+
+		lemmatizator(word_course);
+
+		delete_repetitions(word_course, frequency_course);
+
+		sort_array(word_course, frequency_course);
+
+		ofstream output_file_course("output_course.txt");
+		for (size_t i = 0; i < word_course.size(); i++) {
+			output_file_course << word_course[i] << ' ' << frequency_course[i] << endl;
+		}
+		output_file_course.close();
+	}
+
 	return 0;
 }

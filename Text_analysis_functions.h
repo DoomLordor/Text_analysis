@@ -27,7 +27,8 @@ void sort_array(vector <string>& array_to_sort, vector <int>& frequency); // сор
 void lemmatizator(vector <string>& array_to_sort); // лемматизация слов
 string capital_letter(string word); // преобразование строки в строку с заглавными символами
 void delete_frequency_one(vector <string>& array_to_sort, vector <int>& frequency); // удаление слов из мешка с еденичной частотностью
-
+void vector_word(vector <string>& input_array, string file_way);
+void delete_numbers(vector <string>& input_array, vector <int>& frequency);
 
 
 // работа с преподавателями
