@@ -18,7 +18,7 @@ int main() {
 		vector <fio>  teachers;
 
 		vector_word(test_word, test_frequency, file_word);
-
+		
 		teacher_input(teachers, file_teacher);
 
 		delete_english_word(test_word, test_frequency);

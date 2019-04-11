@@ -202,21 +202,24 @@ void sort_array(vector<fio>& sort_array) {
 	while (flag) {
 		flag = false;
 		for (size_t i = 0; i < sort_array.size() - 1; i++) {
-			for (size_t j = 0; j < sort_array[i].surname.size(); j++) {
-				if ((int)sort_array[i].surname[j] == (int)sort_array[i + 1].surname[j]) {
-					continue;
+			for (size_t j = 0; (j < sort_array[i].surname.size()) && (j < sort_array[i+1].surname.size()); j++) {
+				if ((int)sort_array[i].surname[j] > (int)sort_array[i + 1].surname[j]) {
+					buf = sort_array[i];
+					sort_array[i] = sort_array[i + 1];
+					sort_array[i + 1] = buf;
+					flag = true;
+					break;
 				}
-				else{
+				else {
 					if ((int)sort_array[i].surname[j] < (int)sort_array[i + 1].surname[j]) {
-						buf = sort_array[i];
-						sort_array[i] = sort_array[i + 1];
-						sort_array[i + 1] = buf;
-						flag = true;
+						break;
 					}
 				}
 			}
 		}
+		
 	}
+	
 }
 
 
