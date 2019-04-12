@@ -260,7 +260,15 @@ void delete_numbers(vector <string>& input_array, vector <int>& frequency) {
 	}
 }
 
-void measure_of_closeness (){}
+double measure_of_closeness (vector<int> first_vector, vector <int> second_vector){
+	int sum_multiplication = 0, sum_square[] = {0 , 0};
+	for (size_t i = 0; i < first_vector.size(); i++) {
+		sum_multiplication += first_vector[i]*second_vector[i];
+		sum_square[0] += pow(first_vector[i], 2);
+		sum_square[1] += pow(second_vector[i], 2);
+	}
+	return sum_multiplication / sqrt(sum_square[0] * sum_square[1]);
+}
 
 
 
