@@ -75,11 +75,12 @@ void delete_stop_word(vector <string>& array_to_sort, vector <int>& frequency, s
 	string word;
 	for (size_t i = 0; !stop_word_file.eof(); i++) {
 		stop_word_file >> word;
+		
 		word = capital_letter(word);
 		stop_word.insert(stop_word.end(), word);
 	}
 	stop_word_file.close();
-	for (size_t i = 0; i < array_to_sort.size(); i++) {
+	for (int i = 0; i < array_to_sort.size(); i++) {
 		for (size_t j = 0; j < stop_word.size(); j++) {
 			if (capital_letter(array_to_sort[i]) == stop_word[j]) {
 				array_to_sort.erase(array_to_sort.begin() + i);
@@ -191,7 +192,7 @@ void teacher_profiles(vector<fio>& teachers, vector <string>& keyword, vector<ve
 		for (size_t j = 0; j < keyword.size(); j++) {
 			for (size_t k = 0; k < teachers[i].keyword.size(); k++) {
 				if (teachers[i].keyword[k] == keyword[j]) {
-					frequency_teachers[j][i] = teachers[i].frequency_keyword[k];
+					frequency_teachers[i][j] = teachers[i].frequency_keyword[k];
 				}
 			}
 		}
@@ -238,7 +239,7 @@ void vector_word(vector <string>& input_array, string file_way){
 
 void delete_numbers(vector <string>& input_array, vector <int>& frequency) {
 	string number_character = "0123456789";
-	for (size_t i = 0; i < input_array.size(); i++) {
+	for (int i = 0; i < input_array.size(); i++) {
 		for (size_t j = 0; j < number_character.size(); j++) {
 			while (input_array[i].find(number_character[j]) != string::npos) {
 				if (input_array[i].find(number_character[j]) != string::npos) {
@@ -246,9 +247,7 @@ void delete_numbers(vector <string>& input_array, vector <int>& frequency) {
 						frequency.erase(frequency.begin() + i);
 						input_array.erase(input_array.begin() + i);
 						j = 0;
-						if (i > 0) {
-							i--;
-						}
+						i--;	
 					}
 					else {
 						input_array[i].erase(input_array[i].find(number_character[j]), 1);

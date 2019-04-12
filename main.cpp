@@ -22,26 +22,26 @@ int main() {
 		vector_word(test_word, test_frequency, file_word);
 		
 		teacher_input(teachers, file_teacher);
-
+		
 		delete_english_word(test_word, test_frequency);
-
+		
 		delete_special_character(test_word, test_frequency);
-
-		delete_stop_word(test_word, test_frequency, stop_word_way);
-
+		
 		lemmatizator(test_word);
-
+		
+		delete_stop_word(test_word, test_frequency, stop_word_way);
+		
 		teacher_position_number(test_frequency, number_begin);
-
+		
 		teacher_keyword(teachers, test_word, test_frequency, number_begin);
-
+		
 		delete_repetitions(test_word, test_frequency);
-
+		
 		sort_array(test_word, test_frequency);
-
+		
 		delete_frequency_one(test_word, test_frequency);
-
-		vector<vector<int>> frequency_teachers(test_word.size(), vector<int>(teachers.size(), 0));
+		
+		vector<vector<int>> frequency_teachers(teachers.size(), vector<int>(test_word.size(), 0));
 
 		for (size_t i = 0; i < teachers.size(); i++) {
 			delete_repetitions(teachers[i].keyword, teachers[i].frequency_keyword);
@@ -63,7 +63,7 @@ int main() {
 
 		ofstream output_file1("output1.txt");
 		output_file1 << "\t\t\t";
-		for (size_t i = teachers.size() - 1; i > 0; i--) {
+		for (size_t i = 0; i < teachers.size(); i++) {
 			output_file1 << '\t' << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << '.';
 		}
 
@@ -73,10 +73,18 @@ int main() {
 				output_file1 << '\t';
 			}
 			for (size_t j = 0; j < teachers.size(); j++) {
-				output_file1 << '\t' << frequency_teachers[i][j] << '\t';
+				output_file1 << '\t' << frequency_teachers[j][i] << '\t';
 			}
 		}
 		output_file.close();
+
+		ofstream output_file_comparison("output_comparison.txt");
+		for (size_t i = 0; i < teachers.size() - 1; i++) {
+			for (size_t j = i + 1; j < teachers.size(); j++) {
+				output_file_comparison << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t" << teachers[j].surname << ' ' << teachers[j].name[0] << '.' << teachers[j].patronymic[0] << ".\t" << measure_of_closeness(frequency_teachers[i],frequency_teachers[j]) << endl;
+			}
+		}
+		output_file_comparison.close();
 
 		cout << endl << test_word.size() << endl;
 	}

@@ -15,6 +15,7 @@ output1.txt
 word.txt
 word_course.txt
 output_course.txt
+output_comparison.txt
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
