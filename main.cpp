@@ -28,9 +28,9 @@ int main() {
 		delete_special_character(test_word, test_frequency);
 		
 		lemmatizator(test_word);
-		
+	
 		delete_stop_word(test_word, test_frequency, stop_word_way);
-		
+
 		teacher_position_number(test_frequency, number_begin);
 		
 		teacher_keyword(teachers, test_word, test_frequency, number_begin);
@@ -79,14 +79,27 @@ int main() {
 		output_file.close();
 
 		ofstream output_file_comparison("output_comparison.txt");
-		for (size_t i = 0; i < teachers.size() - 1; i++) {
-			for (size_t j = i + 1; j < teachers.size(); j++) {
-				output_file_comparison << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t" << teachers[j].surname << ' ' << teachers[j].name[0] << '.' << teachers[j].patronymic[0] << ".\t" << measure_of_closeness(frequency_teachers[i],frequency_teachers[j]) << endl;
+		output_file_comparison << "\t\t";
+		for (size_t i = 0; i < teachers.size(); i++) {
+			output_file_comparison << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
+		}
+
+		for (size_t i = 0; i < teachers.size(); i++) {
+			output_file_comparison << endl << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
+			for (size_t j = 0; j < teachers.size(); j++) {
+				if (i != j) {
+					output_file_comparison << fixed;
+					output_file_comparison.precision(6);
+					output_file_comparison  << measure_of_closeness(frequency_teachers[i], frequency_teachers[j]) << '\t';
+				}
+				else {
+					output_file_comparison  << "1.000000\t";
+				}
 			}
 		}
 		output_file_comparison.close();
 
-		cout << endl << test_word.size() << endl;
+		cout << test_word.size() << endl;
 	}
 	
 	cout << "ѕроизвести анализ содержани€ курсов? \n";

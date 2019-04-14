@@ -20,13 +20,11 @@ void vector_word(vector <string> &array_to_sort, vector <int>& frequency, string
 			}
 			k = 0;
 		}
-		
 	}
 	input_file.close();
 }
 
 void delete_english_word(vector <string>& array_to_sort, vector <int>& frequency){
-
 	for (size_t i = 0; i < array_to_sort.size(); i++) {
 		if ( ( (int)array_to_sort[i][0] < 65) or ( (int)array_to_sort[i][0] > 122)) {
 			if (array_to_sort[i].size() > 1) {
@@ -46,7 +44,7 @@ void delete_english_word(vector <string>& array_to_sort, vector <int>& frequency
 }
 
 void delete_special_character(vector <string>& array_to_sort, vector <int>& frequency) {
-	string special_character = ".,\"()";
+	string special_character = "-.,\"()";
 	for (size_t i = 0; i < array_to_sort.size(); i++) {
 		for (size_t j = 0; j < special_character.size(); j++) {
 			while (array_to_sort[i].find(special_character[j]) != string::npos ) {
@@ -73,15 +71,25 @@ void delete_stop_word(vector <string>& array_to_sort, vector <int>& frequency, s
 	fstream stop_word_file(file_way);
 	vector <string> stop_word;
 	string word;
-	for (size_t i = 0; !stop_word_file.eof(); i++) {
+	vector <int> number_of_position(34,0);
+
+	stop_word_file >> word;
+	word = capital_letter(word);
+	stop_word.insert(stop_word.end(), word);
+
+	for (size_t i = 1; !stop_word_file.eof(); i++) {
 		stop_word_file >> word;
-		
 		word = capital_letter(word);
 		stop_word.insert(stop_word.end(), word);
+		if ((int)stop_word[i][0] > (int)stop_word[i - 1][0]) {
+			number_of_position[64+(int)stop_word[i][0]] = i;
+		}
 	}
+	number_of_position[33] = stop_word.size();
 	stop_word_file.close();
+
 	for (int i = 0; i < array_to_sort.size(); i++) {
-		for (size_t j = 0; j < stop_word.size(); j++) {
+		for (size_t j = number_of_position[64+(int)array_to_sort[i][0]]; j < number_of_position[65 + (int)array_to_sort[i][0]]; j++) {
 			if (capital_letter(array_to_sort[i]) == stop_word[j]) {
 				array_to_sort.erase(array_to_sort.begin() + i);
 				frequency.erase(frequency.begin() + i);
