@@ -62,18 +62,8 @@ int main() {
 		output_file.close();
 
 		ofstream output_file1("output1.txt");
-		output_file1 << "\t\t";
-		for (size_t i = 0; i < 30; i++) {
-			output_file1 << test_word[i] << '\t';
-		}
-
+		output_file1 << "\t\t\t";
 		for (size_t i = 0; i < teachers.size(); i++) {
-			output_file1 << '\n' << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << '.';
-			for (size_t j = 0; j < teachers.size(); j++) {
-				output_file1 << '\t' << frequency_teachers[j][i] << '\t';
-			}
-		}
-		/*for (size_t i = 0; i < teachers.size(); i++) {
 			output_file1 << '\t' << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << '.';
 		}
 
@@ -85,7 +75,7 @@ int main() {
 			for (size_t j = 0; j < teachers.size(); j++) {
 				output_file1 << '\t' << frequency_teachers[j][i] << '\t';
 			}
-		}*/
+		}
 		output_file.close();
 
 		ofstream output_file_comparison("output_comparison.txt");
