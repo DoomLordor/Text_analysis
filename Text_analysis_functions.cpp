@@ -83,12 +83,17 @@ void delete_stop_word(vector <string>& array_to_sort, vector <int>& frequency, s
 		stop_word.insert(stop_word.end(), word);
 		if ((int)stop_word[i][0] > (int)stop_word[i - 1][0]) {
 			number_of_position[64+(int)stop_word[i][0]] = i;
-			cout << i << ' ' << stop_word[i] << endl;
 		}
 	}
 	number_of_position[33] = stop_word.size();
-	stop_word_file.close();
 
+	for (size_t i = 33; i > 0; i--) {
+		if (number_of_position[i] == 0) {
+			number_of_position[i] = number_of_position[i + 1];
+		}
+	}
+	
+	stop_word_file.close();
 	for (int i = 0; i < array_to_sort.size(); i++) {
 		for (size_t j = number_of_position[64+(int)array_to_sort[i][0]]; j < number_of_position[65 + (int)array_to_sort[i][0]]; j++) {
 			if (array_to_sort[i] == capital_letter(stop_word[j])) {
