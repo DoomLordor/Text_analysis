@@ -92,7 +92,7 @@ void delete_stop_word(vector <string>& array_to_sort, vector <int>& frequency, s
 			number_of_position[i] = number_of_position[i + 1];
 		}
 	}
-	
+
 	stop_word_file.close();
 	for (int i = 0; i < array_to_sort.size(); i++) {
 		for (size_t j = number_of_position[64+(int)array_to_sort[i][0]]; j < number_of_position[65 + (int)array_to_sort[i][0]]; j++) {
