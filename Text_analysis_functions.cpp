@@ -115,18 +115,18 @@ void delete_repetitions(vector <string>& array_to_sort, vector <int>& frequency)
 
 void sort_array(vector <string>& array_to_sort, vector <int>& frequency) {
 	bool flag = true;
-	string buf_str;
-	int buf_int;
+	string y;
+	int x;
 	while (flag) {
 		flag = false;
 		for (size_t i = 0; i < frequency.size() - 1; i++) {
 			if (frequency[i] < frequency[i + 1]) {
-				buf_int = frequency[i];
+				x = frequency[i];
 				frequency[i] = frequency[i + 1];
-				frequency[i + 1] = buf_int;
-				buf_str= array_to_sort[i];
+				frequency[i + 1] = x;
+				y = array_to_sort[i];
 				array_to_sort[i] = array_to_sort[i + 1];
-				array_to_sort[i + 1] = buf_str;
+				array_to_sort[i + 1] = y;
 				flag = true;
 			}
 		}
