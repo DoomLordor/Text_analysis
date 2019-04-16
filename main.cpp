@@ -57,7 +57,11 @@ int main() {
 
 		ofstream output_file("output.txt");
 		for (size_t i = 0; i < test_word.size(); i++) {
-			output_file << test_word[i] << ' ' << test_frequency[i] << endl;
+			output_file << test_word[i];
+			for (size_t j = 0; j < 4 - (int)(test_word[i].size() / 8); j++) {
+				output_file << '\t';
+			}
+			output_file << test_frequency[i] << endl;
 		}
 		output_file.close();
 

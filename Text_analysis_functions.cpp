@@ -283,6 +283,14 @@ double measure_of_closeness (vector<int> first_vector, vector <int> second_vecto
 	return sum_multiplication / sqrt(sum_square[0] * sum_square[1]);
 }
 
+double euclidean_value(vector<int> first_vector, vector <int> second_vector) {
+	double sum_square=0;
+	for (size_t i = 0; i < first_vector.size(); i++) {
+		sum_square += pow(first_vector[i] - second_vector[i], 2);
+	}
+	return sqrt(sum_square);
+}
+
 
 
 
