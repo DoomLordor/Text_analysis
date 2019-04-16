@@ -113,14 +113,9 @@ int main() {
 		for (size_t i = 0; i < teachers.size(); i++) {
 			output_file_comparison_evcl << endl << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
 			for (size_t j = 0; j < teachers.size(); j++) {
-				if (i != j) {
 					output_file_comparison_evcl << fixed;
 					output_file_comparison_evcl.precision(6);
 					output_file_comparison_evcl << euclidean_value(frequency_teachers[i], frequency_teachers[j]) << '\t';
-				}
-				else {
-					output_file_comparison_evcl << "1.000000\t";
-				}
 			}
 		}
 		output_file_comparison_evcl.close();
