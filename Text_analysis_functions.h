@@ -31,7 +31,7 @@ void delete_frequency_one(vector <string>& array_to_sort, vector <int>& frequenc
 void vector_word(vector <string>& input_array, string file_way);// чтение слов из файла
 void delete_numbers(vector <string>& input_array, vector <int>& frequency);//удаление цифр из списка слов
 double measure_of_closeness(vector<int> first_vector, vector <int> second_vector);//косинус между векторами
-
+double euclidean_value(vector<int> first_vector, vector <int> second_vector); // евклидова величина для определения близости векторов
 
 // работа с преподавателями
 void teacher_position_number(vector <int>& frequency, vector <int>& numbers); //определение позиций преподвателей
@@ -39,5 +39,6 @@ void teacher_input(vector <fio>& input_array, string file_way); // ввод ФИО преп
 void teacher_keyword(vector <fio>& input_data, vector <string>& input_array_word, vector <int>& frequency, vector <int>& numbers); // добавление преподавателям их ключевых слов
 void sort_array(vector<fio>& sort_array); // преподавателей по фамилиям
 void teacher_profiles(vector<fio>& teachers, vector <string>& keyword, vector<vector<int>>& frequency_teachers); // ключевые слова преподавателей из мешка слов
+
 
 #endif

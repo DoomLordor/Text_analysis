@@ -82,26 +82,48 @@ int main() {
 		}
 		output_file.close();
 
-		ofstream output_file_comparison("output_comparison.txt");
-		output_file_comparison << "\t\t";
+		ofstream output_file_comparison_cos("output_comparison_cos.txt");
+		output_file_comparison_cos << "\t\t";
 		for (size_t i = 0; i < teachers.size(); i++) {
-			output_file_comparison << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
+			output_file_comparison_cos << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
 		}
 
 		for (size_t i = 0; i < teachers.size(); i++) {
-			output_file_comparison << endl << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
+			output_file_comparison_cos << endl << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
 			for (size_t j = 0; j < teachers.size(); j++) {
 				if (i != j) {
-					output_file_comparison << fixed;
-					output_file_comparison.precision(6);
-					output_file_comparison  << measure_of_closeness(frequency_teachers[i], frequency_teachers[j]) << '\t';
+					output_file_comparison_cos << fixed;
+					output_file_comparison_cos.precision(6);
+					output_file_comparison_cos << measure_of_closeness(frequency_teachers[i], frequency_teachers[j]) << '\t';
 				}
 				else {
-					output_file_comparison  << "1.000000\t";
+					output_file_comparison_cos << "1.000000\t";
 				}
 			}
 		}
-		output_file_comparison.close();
+		output_file_comparison_cos.close();
+		
+		
+		ofstream output_file_comparison_evcl("output_comparison_evcl.txt");
+		output_file_comparison_evcl << "\t\t";
+		for (size_t i = 0; i < teachers.size(); i++) {
+			output_file_comparison_evcl << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
+		}
+
+		for (size_t i = 0; i < teachers.size(); i++) {
+			output_file_comparison_evcl << endl << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
+			for (size_t j = 0; j < teachers.size(); j++) {
+				if (i != j) {
+					output_file_comparison_evcl << fixed;
+					output_file_comparison_evcl.precision(6);
+					output_file_comparison_evcl << euclidean_value(frequency_teachers[i], frequency_teachers[j]) << '\t';
+				}
+				else {
+					output_file_comparison_evcl << "1.000000\t";
+				}
+			}
+		}
+		output_file_comparison_evcl.close();
 
 		cout << test_word.size() << endl;
 	}
