@@ -14,34 +14,34 @@ int main() {
 
 	if (capital_letter(anser) == "YES") {
 		
-		vector <string> test_word;
-		vector <int> test_frequency, number_begin;
+		vector <string> Keywords;
+		vector <int> frequency_keywords, number_begin;
 		string file_word = "word.txt", file_teacher = "list_of_teachers.txt";
 		vector <fio>  teachers;
 
-		vector_word(test_word, test_frequency, file_word);
+		vector_word(Keywords, frequency_keywords, file_word);
 		
 		teacher_input(teachers, file_teacher);
 		
-		delete_english_word(test_word, test_frequency);
+		delete_english_word(Keywords, frequency_keywords);
 		
-		delete_special_character(test_word, test_frequency);
+		delete_special_character(Keywords, frequency_keywords);
 		
-		lemmatizator(test_word);
+		lemmatizator(Keywords);
 	
-		delete_stop_word(test_word, test_frequency, stop_word_way);
+		delete_stop_word(Keywords, frequency_keywords, stop_word_way);
 
-		teacher_position_number(test_frequency, number_begin);
+		teacher_position_number(frequency_keywords, number_begin);
 		
-		teacher_keyword(teachers, test_word, test_frequency, number_begin);
+		teacher_keyword(teachers, Keywords, frequency_keywords, number_begin);
 		
-		delete_repetitions(test_word, test_frequency);
+		delete_repetitions(Keywords, frequency_keywords);
 		
-		sort_array(test_word, test_frequency);
+		sort_array(Keywords, frequency_keywords);
 		
-		delete_frequency_one(test_word, test_frequency);
+		delete_frequency_one(Keywords, frequency_keywords);
 		
-		vector<vector<int>> frequency_teachers(teachers.size(), vector<int>(test_word.size(), 0));
+		vector<vector<int>> frequency_teachers(teachers.size(), vector<int>(Keywords.size(), 0));
 
 		for (size_t i = 0; i < teachers.size(); i++) {
 			delete_repetitions(teachers[i].keyword, teachers[i].frequency_keyword);
@@ -53,15 +53,15 @@ int main() {
 
 		sort_array(teachers);
 
-		teacher_profiles(teachers, test_word, frequency_teachers);
+		teacher_profiles(teachers, Keywords, frequency_teachers);
 		//вывод профил€ кафедры
 		ofstream output_file("output.txt");
-		for (size_t i = 0; i < test_word.size(); i++) {
-			output_file << test_word[i];
-			for (size_t j = 0; j < 4 - (int)(test_word[i].size() / 8); j++) {
+		for (size_t i = 0; i < Keywords.size(); i++) {
+			output_file << Keywords[i];
+			for (size_t j = 0; j < 4 - (int)(Keywords[i].size() / 8); j++) {
 				output_file << '\t';
 			}
-			output_file << test_frequency[i] << endl;
+			output_file << frequency_keywords[i] << endl;
 		}
 		output_file.close();
 		// вывод матрицы слово - преподватель
@@ -71,9 +71,9 @@ int main() {
 			output_file1 << '\t' << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << '.';
 		}
 
-		for (size_t i = 0; i < test_word.size(); i++) {
-			output_file1 << endl << test_word[i];
-			for (size_t j = 0; j < 4 - (int)(test_word[i].size() / 8); j++) {
+		for (size_t i = 0; i < Keywords.size(); i++) {
+			output_file1 << endl << Keywords[i];
+			for (size_t j = 0; j < 4 - (int)(Keywords[i].size() / 8); j++) {
 				output_file1 << '\t';
 			}
 			for (size_t j = 0; j < teachers.size(); j++) {
@@ -103,7 +103,7 @@ int main() {
 		}
 		output_file_comparison_cos.close();
 		
-		// вывод евклидовой мерыы близости
+		// вывод евклидовой меры близости
 		ofstream output_file_comparison_evcl("output_comparison_evcl.txt");
 		output_file_comparison_evcl << "\t\t";
 		for (size_t i = 0; i < teachers.size(); i++) {
@@ -120,7 +120,7 @@ int main() {
 		}
 		output_file_comparison_evcl.close();
 
-		cout << test_word.size() << endl;
+		cout << Keywords.size() << endl;
 	}
 	
 	cout << "ѕроизвести анализ содержани€ курсов? \n";
