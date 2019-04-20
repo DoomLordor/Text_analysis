@@ -1,0 +1,1357 @@
+
+лндюкэмне сопюбкемхе	5  
+MODAL CONTROL	4  
+SIMULATION	3  
+хдемрхтхйюжхъ	3  
+хмбюпхюмрмюъ яхярелю	3  
+лндекхпнбюмхе	3  
+япедю MATLAB/SIMULINK	3  
+ALGORITHM	2  
+IDENTIFICATION	2  
+INVARIANT SYSTEM	2  
+STATE SPACE	2  
+юкцнпхрл	2  
+ADAPTIVE	1  
+COMPENSATION	1  
+COMPENSATION FOR DISTURBANCE	1  
+ID	1  
+MATLAB/SIMULINK	1  
+MATLAB/SIMULINK WEDNESDAY	1  
+MEASURED DISTURBANCES	1  
+TRANSFER FUNCTION	1  
+юдюорюжхъ	1  
+юдюорхбмюъ яхярелю	1  
+юдюорхбмне сопюбкемхе	1  
+хглемъчыхеяъ оюпюлерпш	1  
+хглепъелше бнглсыючыхе бнгдеиярбхъ	1  
+йнлоемяюжхъ	1  
+йнлоемяюжхъ бнглсыемхи	1  
+йнпнрйнгюлймсрши пнрнп	1  
+лмнцнлепмше назейрш	1  
+лндюкэмне сопюбкемхе я хдемрхтхйюрнпнл	1  
+лндюкэмне сопюбкемхъ	1  
+лндекэ хдемрхтхйюжхх	1  
+лнлемр	1  
+оепедюрнвмюъ тсмйжхъ	1  
+опнярпюмярбн янярнъмхи	1  
+опнярпюмярбн янярнъмхъ	1  
+оърхтюгмюъ люьхмю	1  
+яхмрег лндюкэмнцн пецскърнпю	1  
+яхмупнммни люцмхрнщкейрпхвеяйни люьхмш	1  
+яйнпнярэ	1  
+якедъыюъ яхярелю	1  
+рпеу тюгмюъ люьхмю	1  
+тюгмши пнрнп	1  
+
+мюдефмнярэ	6  	
+лндекхпнбюмхе	5  	
+RELIABILITY	4  	
+лхйпнцпхд	3  	
+лскэрхюцемрмюъ яхярелю	3  	
+норхлхгюжхъ	3  	
+пюяопедекеммюъ цемепюжхъ	3  	
+ренпхъ меверйху лмнфеярб	3  	
+слмше яерх	3  	
+ARTIFICIAL NEURAL NETWORKS	2  	
+DISTRIBUTED GENERATION	2  	
+FUZZY MODELS	2  	
+MICROGRID	2  	
+MULTI-AGENT SYSTEMS	2  	
+OPERATIONAL RELIABILITY	2  	
+OPTIMIZATION	2  	
+QUALITY ANALYSIS	2  	
+SMART GRID	2  	
+SMART GRIDS	2  	
+юмюкхг йювеярбю	2  	
+юоопнйяхлюжхъ	2  	
+хяйсяярбеммше меипнммше яерх	2  	
+йхаептхгхвеяйюъ яхярелю	2  	
+меипнммше яерх	2  	
+яхярелю сопюбкемхъ	2  	
+жхтпнбюъ ондярюмжхъ	2  	
+ARTIFICIAL NEURAL NETWORK	1  	
+AUTOMATED SYSTEMS	1  	
+AUTOMATIZED SYSTEMS	1  	
+CONTROL SYSTEM	1  	
+CONTROL SYSTEMS	1  	
+CONVEX NONLINEAR PROGRAMMING	1  	
+CYBER-PHYSICAL SYSTEMS	1  	
+DATA ANALYSIS	1  	
+DATA FUSION	1  	
+DIGITAL SUBSTATION	1  	
+DISTRIBUTED CONTROL SYSTEMS (DCS)	1  	
+ELECTRIC POWER SYSTEMS	1  	
+ELECTRICAL ENERGY	1  	
+ELECTROMAGNETISM-LIKE MECHANISM	1  	
+ELLIPSOIDAL APPROXIMATION	1  	
+ELLIPSOIDALAPPROXIMATION	1  	
+FUZZY SETS	1  	
+FUZZY SETS THEORY	1  	
+INFORMATION-MEASURING SYSTEMS	1  	
+INPUT VARIABLES	1  	
+LINGUISTIC VARIABLES	1  	
+MICROGRIDS	1  	
+MODELING	1  	
+MODELLING	1  	
+MULTI-AGENT SYSTEMS (MAS)	1  	
+NEURO-FUZZY AND NEURAL MODELS	1  	
+NONLINEAR PROGRAMMING	1  	
+PARTICLE SWARM OPTIMIZATION	1  	
+POWER DISTRIBUTION	1  	
+POWER ON	1  	
+RADIO PROPAGATION	1  	
+SIMULATION	1  	
+STATISTICS	1  	
+TOPOLOGY OPTIMIZATION	1  	
+UNMANNED SURFACE VEHICLE	1  	
+юбрнлюрхгхпнбюммше яхярелш	1  	
+юбрнлюрхгхпнбюммше яхярелш сверю щкейрпнщмепцхх	1  	
+юмюкхг	1  	
+юмюкхг дюммшу	1  	
+юмюкхг сярнивхбнярх	1  	
+юядрс	1  	
+бнгнамнбкъелше хярнвмхйх щмепцхх	1  	
+бундмше оепелеммше	1  	
+бшосйкне мекхмеимне опнцпюллхпнбюмхе	1  	
+цпют янярнъмхи	1  	
+дхюцмнярхйю	1  	
+дхмюлхвеяйхи назейр	1  	
+фхгмеммши жхйк яхярелш	1  	
+хмтнплюжхнммн-хглепхрекэмше яхярелш	1  	
+хяйсяярбеммюъ меипнммюъ яерэ	1  	
+хяйсярбеммюъ меипнммюъ яерэ	1  	
+йхаепмерхвеяйхи йнлонмемр	1  	
+йхаептхгхвеяйхе яхярелш	1  	
+йкюяяхтхйюжхъ	1  	
+йкюярепхгюжхъ	1  	
+лхйпняерх	1  	
+лскэрхюцемрмше яхярелш	1  	
+мюакчдюелнярэ	1  	
+мюд╗фмнярэ	1  	
+мюопъфемхе	1  	
+мюпсьемхе	1  	
+меипн-меверйхе х меипнммше лндекх онйюгюрекеи мюдефмнярх	1  	
+меипн-мев╗рйхе яхярелш	1  	
+мекхмеимюъ яхярелю	1  	
+мев╗рйхе лмнфеярбю	1  	
+наыюъ лндекэ хмтнплюжхх	1  	
+ноепюрхбмюъ мюдефмнярэ	1  	
+оюпюлерпш	1  	
+оюпюлерпш пецскърнпю	1  	
+онйюгюрекх йювеярбю	1  	
+опнцпюллмн-юооюпюрмюъ окюртнплю	1  	
+опнцпюллмн-реумхвеяйхе пеьемхъ	1  	
+опнтхкэ мюцпсгйх	1  	
+пюяопедек╗ммше яхярелш сопюбкемхъ	1  	
+ярюрхярхвеяйхе лерндш	1  	
+рнй	1  	
+слмше явервхйх	1  	
+сопюбкемхе	1  	
+тюггх-лндекх	1  	
+тхгхвеяйхи йнлонмемр	1  	
+жеоэ люпйнбю	1  	
+щйяоксюрюжхнммюъ мюдефмнярэ	1  	
+щкейрпхвеяйхе хглепемхъ	1  	
+щкейрпняеребне нанпсднбюмхе	1  	
+щкейрпняеребше йнлоюмхх	1  	
+COGNITIVE MODEL  	3
+йнцмхрхбмюъ лндекэ	3  	
+CORRELATION	2  	
+LINEAR REGRESSION	2  	
+йнппекъжхъ	2  	
+кхмеимюъ пецпеяяхъ	2  	
+ноепюжхнмюкэмши хмярпслемрюпхи	2  	
+BHATTACHARYYA	1  	
+CATEGORICAL	1  	
+CONTROLLED OBJECT STABILITYATION	1  	
+DATA ANALYSIS	1  	
+DELEGATION OF RIGHTS	1  	
+DUAL SCALING	1  	
+EFFICIENCY OF STATE REGULATION	1  	
+EXPERIMENTAL-STATISTICAL INVESTIGATION	1  	
+FACTOR VALUE SCALE	1  	
+FACTORS RELATIONSHIPS	1  	
+INTERFACTORS CORRELATION	1  	
+NEW PUBLIC MANAGEMENT	1  	
+NUMERIC	1  	
+OPERATIONAL DECISIONS	1  	
+OPERATIONAL INSTRUMENTATION	1  	
+OPERATIONAL TOOLS	1  	
+POLITICAL AND ADMINISTRATIVE ELITE	1  	
+PROCESS PREDICTION	1  	
+PUBLIC ADMINISTRATION	1  	
+PUBLIC POLICY NATIONAL	1  	
+PUBLIC SERVICE	1  	
+PUBLIC VALUES	1  	
+PUBLIC-ADMINISTRATIVE MANAGEMENT	1  	
+PUBLIC-POLITICAL MANAGEMENT	1  	
+RELATION FORCE MEASURE	1  	
+SCALES OF FACTORS	1  	
+SIMULATION DATA	1  	
+STATISTICAL ESTIMATES	1  	
+STRATEGIC PLANNING	1  	
+STRENGTH OF INTER-FACTOR LINK	1  	
+SUBJECTS OF MANAGEMENT	1  	
+THEORY OF BUREAUCRACY	1  	
+THEORY OF PUBLIC CHOICE	1  	
+юмюкхг дюммшу	1  	
+юяохпюмрспю	1  	
+юяяхяремрспю-ярюфхпнбйю	1  	
+аюгш дюммшу	1  	
+цнясдюпярбеммюъ мюжхнмюкэмюъ онкхрхйю	1  	
+цнясдюпярбеммюъ яксфаю	1  	
+цнясдюпярбеммн-юдлхмхярпюрхбмне сопюбкемхе	1  	
+цнясдюпярбеммне сопюбкемхе	1  	
+цнясдюпярбеммн-онкхрхвеяйне сопюбкемхе	1  	
+декецхпнбюмхе опюб	1  	
+дсюкэмне ьйюкхпнбюмхе	1  	
+едхмемхе пняяхияйни мюжхх	1  	
+хлхрюжхнммше дюммше	1  	
+хмтнплюжхнммн-юмюкхрхвеяйне наеяоевемхе	1  	
+йпхрепхх нжемйх	1  	
+лефтюйрнпмюъ ябъгэ	1  	
+лефтюйрнпмше ябъгх	1  	
+лепю яхкш ябъгх	1  	
+мнбши цнясдюпярбеммши лемедфлемр	1  	
+мнлхмюкэмши	1  	
+ноепюжхнммше пеьемхъ	1  	
+нпдхмюрспю	1  	
+ондцнрнбйю йюдпнб бшяьеи йбюкхтхйюжхх	1  	
+онкхрхйн-юдлхмхярпюрхбмюъ щкхрю	1  	
+опнцмнгхпнбюмхе опнжеяянб	1  	
+осакхвмше жеммнярх	1  	
+пюяярнъмхе ауюрювюпхъ	1  	
+яхкю лефтюйрнпмни ябъгх	1  	
+ярюрхярхвеяйхе нжемйх	1  	
+ярпюрецхвеяйне окюмхпнбюмхе	1  	
+ясазейрш сопюбкемхъ	1  	
+ренпхъ ачпнйпюрхх	1  	
+ренпхъ наыеярбеммнцн бшанпю	1  	
+сярнивхбнярэ назейрю сопюбкемхъ	1  	
+вхякнбни	1  	
+ьйюкю опедярюбкемхъ гмювемхи тюйрнпю	1  	
+ьйюкш хглепемхъ тюйрнпнб	1  	
+щйяоепхлемрюкэмн-ярюрхярхвеяйне хяякеднбюмхе	1  	
+щттейрхбмнярэ цнясдюпярбеммнцн пецскхпнбюмхъ	1  	
+щттейрхбмнярэ цнясдюпярбеммнцн сопюбкемхъ	1
+
+	
+ценлерпхвеяйхи хмдейя тпюйрюкэмнярх	3  	
+ARTIFICIAL NEURAL NETWORK	2  	
+FRACTAL TIME SERIES	2  	
+HURST COEFFICIENT	2  	
+юкцнпхрл йслскърхбмшу яслл	2  	
+хяйсяярбеммюъ меипнммюъ яерэ	2  	
+яхмрег йнмрпнкхпсчыецн юкцнпхрлю	2  	
+тпюйрюкэмше бпелеммше пъдш	2  	
+ACCURACY INCREASING	1  	
+ANOMALOUS TERMS	1  	
+ARTIFICIAL NEURAL NETWORKS	1  	
+AUTOMATIC CONTROL SYSTEM	1  	
+CASCADE NEURAL NETWORK	1  	
+CHANGE-POINT DETECTION OF FRACTAL PROCESSES	1  	
+COMPUTER SIMULATION	1  	
+CORRELATED PROCESSES	1  	
+CUMULATIVE SUM METHOD	1  	
+CURVATURE OF POLYGONAL LINE	1  	
+CUSUM PROCEDURE	1  	
+DEFECTS DETECTION	1  	
+DETECTION OF SPONTANEOUS CHANGE OF PARAMETERS VECTOR	1  	
+EXPERIMENTAL CONFIGURATION	1  	
+EXPERIMENTAL DESIGN TECHNIQUES	1  	
+FRACTAL	1  	
+FRACTAL TIME SERIES ANALYSIS	1  	
+GEOMETRIC INDEX OF FRACTALITY	1  	
+GEOMETRICAL FRACTAL INDEX	1  	
+GEOMETRICAL FRACTALITY INDEX	1  	
+GEOMETRICAL FRACTALITY INDEXES	1  	
+IMPULSE NOISE	1  	
+LOCAL FRACTAL ANALYSIS	1  	
+MEDICAL DIAGNOSTIC SYSTEM	1  	
+MULTIDIMENSIONAL CUSUM-AL- GORITHM	1  	
+NETWORK CLASSIFIER	1  	
+NEURAL NETWORK CONTROL SYSTEMS	1  	
+NEURAL NETWORK SOFTWARE	1  	
+NONDESTRUCTIVE ACOUSTIC MONITORING	1  	
+NON-STATIONARY PLANT CONTROL	1  	
+OBJECTS POSITIONING	1  	
+OPTIMAL CONTROL	1  	
+OUTLIERS	1  	
+POSITIONING ACCURACY	1  	
+POSITIONING METHODS	1  	
+POSITIONING SYSTEMS	1  	
+SEASONAL DIFFERENCES	1  	
+SERIES OF OUTLIERS	1  	
+STOCHASTIC CONDITIONS	1  	
+SYNTHESIS OF CONTROL ALGORITHM	1  	
+SYNTHESIS OF CONTROLLING ALGORITHM	1  	
+TIME SERIES	1  	
+TUTORIAL SOFTWARE	1  	
+VECTOR TIME SERIES	1  	
+WI-FI	1  	
+WI-FI POSITIONING	1  	
+WI-FI онгхжхнмхпнбюмхе	1  	
+WIRELESS NETWORKS	1  	
+юйсярхвеяйхи мепюгпсьючыхи йнмрпнкэ	1  	
+юмюкхг	1  	
+юмнлюкэмше мюакчдемхъ	1  	
+аеяопнбндмше яерх	1  	
+бейрнпмши бпелеммни пъд	1  	
+бпелеммше пъдш	1  	
+бшапняш	1  	
+ценлерпхвеяйхе хмдейяш тпюйрюкэмнярх	1  	
+хлоскэямше онлеух	1  	
+хяйсяярбеммше меипнммше яерх	1  	
+йюяйюдмше меипняерх	1  	
+йхаепмерхйю	1  	
+йнлоэчрепмне лндекхпнбюмхе	1  	
+йнппекхпнбюммше опнжеяяш	1  	
+йпхбхгмю кнлюмни	1  	
+кнйюкэмши тпюйрюкэмши юмюкхг	1  	
+ледхжхмяйхи дхюцмнярхвеяйхи йнлокейя	1  	
+лерндш онгхжхнмхпнбюмхъ	1  	
+лмнцнлепмши юкцнпхрл йслскърхбмшу яслл	1  	
+лндекхпнбюмхе	1  	
+меипняеребюъ яхярелю сопюбкемхъ	1  	
+меипняеребни йкюяяхтхйюрнп	1  	
+меипняеребше опнцпюллмше япедярбю	1  	
+намюпсфемхе детейрнб	1  	
+намюпсфемхе хглемемхъ бейрнпю оюпюлерпнб	1  	
+намюпсфемхе пюгкюдйх тпюйрюкэмшу опнжеяянб	1  	
+напюанрйю дюммшу	1  	
+насвючыюъ опнцпюллю	1  	
+норхлюкэмне сопюбкемхе	1  	
+окюмхпнбюмхе щйяоепхлемрю	1  	
+онгхжхнмхпнбюмхе назейрнб	1  	
+онйюгюрекэ уепярю	1  	
+опнцпюллмши йнлокейя	1  	
+пюдхнщкейрпнмхйю	1  	
+яегнммше пюгмнярх	1  	
+яепхх юмнлюкэмшу мюакчдемхи	1  	
+яхярелю юбрнлюрхвеяйнцн сопюбкемхъ	1  	
+яхярелш онгхжхнмхпнбюмхъ	1  	
+яксвюимше опнжеяяш	1  	
+яксвюимше опнжеяяш. яксвюимше яхцмюкш	1  	
+ярюрхярхвеяйхе лерндш	1  	
+ярнуюярхвеяйюъ дхяйперхгюжхъ	1  	
+ярнуюярхвеяйхе сякнбхъ	1  	
+ренпхъ хмтнплюжхх. наыюъ ренпхъ ябъгх	1  	
+рнвмнярэ онгхжхнмхпнбюмхъ	1  	
+сбекхвемхе рнвмнярх	1  	
+сопюбкемхе меярюжхнмюпмшл назейрнл	1  	
+свеамхй дкъ бшяьеи ьйнкш	1  	
+тпюйрюк	1  	
+тпюйрюкэмши юмюкхг яхцмюкнб	1  	
+жхтпнбше тхкэрпш	1  	
+щйяоепхлемрюкэмюъ мюярпнийю	1  	
+
+TEXT MINING	5  
+PROFILE METHODS	3  
+хмреккейрсюкэмши юмюкхг рейярнбшу дюммшу	3  
+йнккейрхбш пеьючыху опюбхк	3  
+мюсйнлерпхвеяйхи юмюкхг	3  
+опнтхкэмше лерндш	3  
+свеамхй дкъ бшяьеи ьйнкш	3  
+ENSEMBLE OF CLASSIFIERS	2  
+METHODS OF BILINGUAL TEXT CLASSIFICATION	2  
+NONPARAMETRIC METHODS OF CLASSIFICATION	2  
+юмюкхрхйн-яхмрерхвеяйюъ напюанрйю х опенапюгнбюмхе хмтнплюжхх	2  
+ахакхнцпютхвеяйхе нохяюмхъ	2  
+хмреккейрсюкэмши юмюкхг дюммшу	2  
+хмтнплюрхйю. мюсвмн-хмтнплюжхнммюъ деърекэмнярэ	2  
+хмтнплюжхнммши онхяй	2  
+йбюмрнбше реумнкнцхх	2  
+йкюяяхтхйюжхъ дбсъгшвмшу ахакхнцпютхвеяйху днйслемрнб	2  
+йнщттхжхемрш юяянжхюрхбмнярх	2  
+йскэрспю. мюсйю. опнябеыемхе	2  
+люрелюрхйю	2  
+лерндш йкюяяхтхйюжхх	2  
+меоюпюлерпхвеяйхе лерндш йкюяяхтхйюжхх	2  
+меоюпюлерпхвеяйхе ярюрхярхвеяйхе йпхрепхх	2  
+меверйхе дсакхйюрш	2  
+напюанрйю х юмюкхг дбсъгшвмшу рейярнбшу днйслемрнб	2  
+петепюрхбмюъ аюгю дюммшу WEB OF SCIENCE	2  
+яанп, напюанрйю х ббнд хмтнплюжхх	2  
+яхярелмши юмюкхг, сопюбкемхе х напюанрйю хмтнплюжхх (он нрпюякъл)	2  
+тхгхйн-люрелюрхвеяйхе мюсйх	2  
+ACCURACY (AND ERROR) OF CLASSIFICATION	1  
+ACCURACY (ERROR) OF CLASSIFICATION	1  
+APPLIED STATISTICS	1  
+AUTOMATIC ANNOTATION	1  
+BIBLIOGRAPHIC DESCRIPTIONS	1  
+CLASSIFICATION (CATEGORIZATION) OF SCIENTIFIC ARTICLES	1  
+CLASSIFICATION OF BILINGUAL BIBLIOGRAPHIC DOCUMENTS	1  
+COEFFICIENTS OF ASSOCIATION	1  
+COEFFICIENTS OF SIMILARITY	1  
+COMPARISON OF RUSSIAN REGIONS	1  
+CONSTRUCTION OF TEMPLATES	1  
+DATA AND TEXT MINING	1  
+DATA PROCESSING	1  
+DETECTION OF FUZZY DUBLICATES	1  
+DISTANCE-WEIGHTED K-NEAREST NEIGHBOR	1  
+DOCUMENTARY DATA	1  
+DUPLICATES (NEAR-DUPLICATES) DETECTION	1  
+FAST NEAREST NEIGHBOR SEARCH	1  
+FORECASTS	1  
+FUZZY DUPLICATES IDENTIFICATION	1  
+HUMAN DEVELOPMENT INDEX	1  
+IDENTIFICATION OF MARKERS OF SCIENTIFIC NOVELTY	1  
+INDEX OF EDUCATION	1  
+INDEX OF GROSS NATIONAL PRODUCT	1  
+INDEX OF LONGEVITY	1  
+INFORMATION RETRIEVAL	1  
+INFORMATIONAL RETRIEVAL	1  
+INFORMATION-ANALYTICAL SYSTEM	1  
+JACCARD COEFFICIENTS	1  
+JARO-WINKLER SIMILARITY	1  
+MACHINE LEARNING	1  
+MATHEMATICAL METHODS OF CLASSIFICATION	1  
+METHODS OF DATA MINING AND KNOWLEDGE DISCOVERY	1  
+METHODS OF WEIGHTING NEAREST NEIGHBORS	1  
+NEAR DUPLICATES	1  
+NEAR-DUPLICATES DETECTION	1  
+NEAREST NEIGHBORS WEIGHING METHODS	1  
+NON-PARAMETRIC CLASSIFICATION METHODS	1  
+NONPARAMETRIC CRITERIA	1  
+NONPARAMETRIC STATISTICAL TESTS	1  
+PLAGIARISM	1  
+PROCEDURE OF LEARNING SAMPLE REDUCTION	1  
+PROCEDURES OF EXTRACTING INFORMATIVE TERMS	1  
+PROCESSING OF BIBLIOGRAPHIC TEXT INFORMATION	1  
+QUANTUM TECHNOLOGIES	1  
+REDUCTION OF THE TRAINING SETS	1  
+REDUCTION TECHNIQUES	1  
+REGRESSION ANALYSIS	1  
+RELATED ARTICLES	1  
+RESEARCH CHOPS	1  
+RUSSIAN INDEX OF SCIENTIFIC CITATION	1  
+SCIENCEMETRIC ANALYSIS	1  
+SCIENTOMETRIC ANALYSIS	1  
+SCIENTOMETRIC METHODS AND INDICATORS	1  
+SCIENTOMETRICS	1  
+SHINGLING	1  
+TEXT CATEGORIZATION	1  
+TEXT CLASSIFICATION	1  
+TEXT DOCUMENT REPRESENTATION	1  
+TEXT MINING NEAREST NEIGHBOR METHOD	1  
+THE ACCURACY AND PERFORMANCE OF CLASSIFICATION	1  
+TRAINING SELECTION REDUCTION PROCEDURE	1  
+WEB OF SCIENCE DATABASE	1  
+юбрнлюрхвеяйне юммнрхпнбюмхе	1  
+юмюкхг яндепфюмхъ днйслемрнб	1  
+юмюкхг рейярнбни хмтнплюжхх	1  
+ахакхнцпютхвеяйюъ йкюяяхтхйюжхъ опнхгбедемхи оевюрх	1  
+ахакхнцпютхвеяйхе рейярнбше днйслемрш	1  
+ахакхнцпютхвеяйхи днйслемр	1  
+ахакхнцпютхъ	1  
+бшвхякхрекэмюъ люрелюрхйю	1  
+бшъбкемхе дсакхйюрнб х меверйху (меонкмшу) дсакхйюрнб	1  
+бшъбкемхе люпйепнб мюсвмни мнбхгмш	1  
+бшъбкемхе меверйху дсакхйюрнб	1  
+дбсъгшвмше ахакхнцпютхвеяйхе нохяюмхъ	1  
+дхяоепяхнммши х тюйрнпмши юмюкхг. йнппекъжхх х пецпеяяхх	1  
+хмдейя днкцнкерхъ	1  
+хмдейя днундю	1  
+хмдейя напюгнбюмхъ	1  
+хмдейя пюгбхрхъ векнбевеяйнцн онремжхюкю	1  
+хмдейяхпнбюмхе днйслемрнб	1  
+хмтнплюжхнммн-юмюкхрхвеяйюъ яхярелю	1  
+йкюяяхтхйюжхъ х тхкэрпюжхъ днйслемрнб	1  
+йкюяяхтхйюжхъ мюсвмшу ярюреи	1  
+йкюяяхтхйюжхъ рейярнбни хмтнплюжхх	1  
+йкюяяхтхйюжхъ рейярнбшу днйслемрнб	1  
+йнкхвеярбеммше нжемйх	1  
+люрелюрхвеяйюъ напюанрйю пегскэрюрнб мюакчдемхи	1  
+люрелюрхвеяйюъ ярюрхярхйю	1  
+люрелюрхвеяйхе лерндш ренпххх йкюяяхтхйюжхх	1  
+лепш х онпнц акхгнярх	1  
+лернд акхфюиьецн яняедю	1  
+лернд ьхмцкнб	1  
+лерндхйю ахакхнцпютхпнбюмхъ	1  
+лерндш бгбеьхбюмхъ акхфюиьху яняедеи	1  
+лерндш хмреккейрсюкэмнцн юмюкхгю дюммшу	1  
+лндекх опедярюбкемхъ рейярнбшу днйрнб	1  
+лндекэ рейярнбнцн днйслемрю	1  
+лндхтхжхпнбюммши х нанаыеммши лернд акхфюиьецн яняедю	1  
+лнмхрнпхмц фспмюкэмшу осакхйюжхи	1  
+мюсйнлерпхвеяйхе лерндш х хмдхйюрнпш	1  
+мюсйнлерпхъ	1  
+меоюпюлерпхвеяйхе йпхрепхх	1  
+намюпсфемхе меверйху (меонкмшу) дсакхйюрнб	1  
+напюанрйю х юмюкхг ахакхнцпютхвеяйни рейярнбни хмтнплюжхх	1  
+напюанрйю х юмюкхг днйслемрюкэмни хмтнплюжхх	1  
+напюанрйю рейярнбни хмтнплюжхх	1  
+насвемхе йкюяяхтхйюрнпнб	1  
+ньхайю йкюяяхтхйюжхх	1  
+окюцхюр	1  
+онярпнемхе ьюакнмнб	1  
+опедбюпхрекэмюъ напюанрйю дюммшу	1  
+опедлюьхммюъ напюанрйю хмтнплюжхх. онхяйнбши напюг днйслемрю (онд)	1  
+опхакхф╗ммше бшвхякемхъ	1  
+опхйкюдмюъ ярюрхярхйю	1  
+опнцмнг	1  
+опнжедспю педсйжхх насвючыеи бшанпйх	1  
+опнжедспш бшъбкемхъ хмтнплюрхбмшу реплхмнб	1  
+опнжедспш кхмеимнцн бгбеьхбюмхъ яняедеи	1  
+опнжедспш педсйжхх бшанпйх	1  
+пюяярнъмхе дфюпн-бхмйкепю	1  
+пецпеяяхнммши юмюкхг	1  
+педсйжхъ насвючыху бшанпнй	1  
+пняяхияйхи хмдейя мюсвмнцн жхрхпнбюмхъ	1  
+ябъгюммше осакхйюжхх	1  
+япюбмхрекэмши юмюкхг пняяхияйху пецхнмнб	1  
+ренпхъ ахакхнцпютхх х лерндхйю ахакхнцпютхпнбюмхъ	1  
+ренпхъ бепнърмняреи х люрелюрхвеяйюъ ярюрхярхйю	1  
+рнвмнярэ (ньхайю) йкюяяхтхйюжхх	1  
+рнвмнярэ х ашярпндеиярбхе йкюяяхтхйюжхх	1  
+сопюбкемхе б реумхвеяйху яхярелюу	1  
+сяйнпеммше лерндш онхяйю акхфюиьецн яняедю	1  
+тнплскш бгбеьхбюмхъ акхфюиьху яняедеи	1  
+жхтпнбше ахакхнрейх	1  
+вхякеммше лерндш	1  
+
+INTERVAL UNCERTAINTY	5  
+хмрепбюкэмюъ менопедекеммнярэ	4  
+EXPERIMENT	2  
+юбрнлюрхйю	2  
+юбрнлюрхйю х рекелеуюмхйю	2  
+хдемрхтхйюжхъ лндекеи ньханй	2  
+хмрепбюкэмше лерндш напюанрйх менопедекеммшу дюммшу	2  
+люрелюрхвеяйхе лерндш напюанрйх	2  
+яхярелмши юмюкхг, сопюбкемхе х напюанрйю хмтнплюжхх (он нрпюякъл)	2  
+яксвюимше опнжеяяш. яксвюимше яхцмюкш	2  
+ярюрхвеяйюъ уюпюйрепхярхйю	2  
+щйяоепхлемр	2  
+CALIBRATION	1  
+CONTROL SYSTEM	1  
+CONTROL WITH PRESET ACCURACY	1  
+CURVE FITTING	1  
+DISTRIBUTION LAW	1  
+ELECTRONIC MAIL	1  
+EQUIVALENT TRANSFORMATIONS	1  
+ERROR CORRECTION	1  
+ERRORS IN VARIABLES	1  
+ERRORS OF VARIABLES	1  
+EVENTS	1  
+INTERVAL ANALYSIS	1  
+MULTISENSOR SYSTEMS	1  
+NETWORK PLANNING	1  
+OPERATIONS	1  
+OPTIMAL CONTROL	1  
+POWER ENGINEERING	1  
+POWER SYSTEM MODELING	1  
+REGRESSION ANALYSIS	1  
+STATIC CHARACTERISTIC	1  
+STATISTICAL CHARACTERISTIC	1  
+TERMINAL CONTROL	1  
+TESTING	1  
+UPPER BOUND	1  
+бшяьее напюгнбюмхе. оедюцнцхйю бшяьеи ьйнкш	1  
+цпсаюъ яхярелю	1  
+дхдюйрхйю	1  
+гюйнм	1  
+гюйнм пюяопедекемхъ	1  
+хмрепбюк	1  
+хмрепбюкэмше юмюкхг х менопедекеммнярэ	1  
+хмтнплюжхъ	1  
+йскэрспю. мюсйю. опнябеыемхе	1  
+лернд	1  
+лндекэ	1  
+мюпндмне напюгнбюмхе х оедюцнцхвеяйхе мюсйх	1  
+мюсвмюъ пюанрю ярсдемрнб	1  
+менопедекеммнярэ	1  
+назейр	1  
+ноепюжхх	1  
+норхлюкэмне сопюбкемхе	1  
+нпцюмхгюжхнммше тнплш насвемхъ	1  
+ньхайх б оепелеммшу	1  
+ньхайх оепелеммшу	1  
+оюпюлерп	1  
+оедюцнцхйю бшяьеи ьйнкш	1  
+пюяопедекемхе	1  
+пняяхияйюъ тедепюжхъ	1  
+яеребне окюмхпнбюмхе	1  
+яхярелю сопюбкемхъ	1  
+янашрхъ	1  
+ярюрхярхйю	1  
+реплхмюкэмне сопюбкемхе	1  
+сопюбкемхе я гюдюммни рнвмнярэч	1  
+щйбхбюкемрмше опенапюгнбюмхъ	1  
+
+аюгш дюммшу	3  
+хмтнплюжхнммше яхярелш	3  
+яхярелш яанпю дюммшу	2  
+COGNITIVE MODEL	1  
+EXPERIMENTAL-STATISTICAL INVESTIGATION	1  
+FACTOR VALUE SCALE	1  
+FACTORS RELATIONSHIPS	1  
+юдюорхбмнярэ хмтнплюжхнммшу яхярел	1  
+юмюкхрхвеяйхе яхярелш	1  
+юяохпюмрспю	1  
+юяяхяремрспю-ярюфхпнбйю	1  
+ачдфермше юяяхцмнбюмхъ	1  
+хмтнплюжхнммюъ яхярелю	1  
+хмтнплюжхнммн-юмюкхрхвеяйне наеяоевемхе	1  
+хмтнплюжхнммне бгюхлндеиярбхе	1  
+йнцмхрхбмюъ лндекэ	1  
+лефтюйрнпмше ябъгх	1  
+нпдхмюрспю	1  
+оюррепмш опнцпюллхпнбюмхъ	1  
+ондцнрнбйю йюдпнб бшяьеи йбюкхтхйюжхх	1  
+онпрюкэмше реумнкнцхх	1  
+пюяопедекемхе пеяспянб	1  
+яанп дюммшу	1  
+яанп х напюанрйю хмтнплюжхх	1  
+яхярелш онддепфйх опхмърхъ пеьемхи	1  
+жемрпюкхгнбюммше упюмхкхыю	1  
+жемрпюкхгнбюммше упюмхкхыю дюммшу	1  
+ьйюкю опедярюбкемхъ гмювемхи тюйрнпю	1  
+щйяоепхлемрюкэмн-ярюрхярхвеяйне хяякеднбюмхе	1  
+
+FUZZY LOGIC	4  
+меверйюъ кнцхйю	4  
+меверйхи кнцхвеяйхи бшбнд	4  
+яервюрйю цкюгю	4  
+щкейрпнперхмнцпюллю	4  
+ELECTRORETINOGRAM	3  
+PATHOLOGY	3  
+юлокхрсдмн-вюярнрмюъ уюпюйрепхярхйю	3  
+оюрнкнцхъ	3  
+ACCURACY OF DIFFERENTIATION	2  
+AMPLITUDE-FREQUENCY RESPONSE	2  
+COMMON LOAD	2  
+CONTROL STABILITY	2  
+DYNAMIC OBJECT	2  
+FUZZY LOGIC INFERENCE	2  
+GAS-COMPRESSOR UNIT	2  
+IDENTIFICATION	2  
+INTERPOLATION POLYNOMIALS NEWTON	2  
+RETINA	2  
+SIMULTANEOUS OPERATION	2  
+SYNCHRONOUS GENERATOR DRIVING MOTOR	2  
+юкцнпхрл вхякеммнцн дхттепемжхпнбюмхъ пеюкэмнцн бпелемх	2  
+юоопнйяхлюжхъ	2  
+дхюцмнярхйю	2  
+дхмюлхвеяйюъ лндекэ яервюрйх	2  
+дхмюлхвеяйхи назейр	2  
+хдемрхтхйюжхъ	2  
+хмрепонкъжхнммши онкхмнл мэчрнмю	2  
+наыюъ мюцпсгйю	2  
+онкняю опносяйюмхъ	2  
+яхярелю дхюцмнярхйх	2  
+рнвмнярэ дхттепемжхпнбюмхъ	2  
+сярнивхбнярэ	2  
+тсмйжхх опхмюдкефмнярх	2  
+A STOCHASTIC MODEL OF THE DIAGNOSED OBJECT	1  
+ACCESSORY FUNCTION	1  
+ADDITIONAL OPTIMIZING PEAK-HOLDING CONTROLLER	1  
+ADJUSTED SIMULATION MODEL	1  
+ALGORITHM OF NUMERICAL DIFFERENTIATION OF REAL TIME	1  
+ALGORITHM OF NUMERICAL DIFFERENTIATION OF REAL-TIME	1  
+AMPLITUDE FREQUENCY RESPONSE	1  
+ANNIVERSARY	1  
+APPROXIMATION	1  
+AUTOMATICS AND COMPUTER ENGINEERING	1  
+BANDWIDTH	1  
+CENTRAL THERMAL STATION	1  
+COEFFICIENT OF EFFICIENCY	1  
+COMPLEX STRUCTURE DYNAMIC OBJECT	1  
+DIAGNOSIS	1  
+DIAGNOSTIC SYSTEM	1  
+DIAGNOSTICS SYSTEM	1  
+DYNAMIC MODEL OF A RETINA	1  
+EXPERT DIAGNOSTICS SYSTEM	1  
+EYE RETINA	1  
+FREQUENCY PROPERTIES	1  
+FUZZY LOGIC CONCLUSION	1  
+FUZZY STATEMENT	1  
+HOT-WATER SUPPLY	1  
+INERTIAL OBJECTS OR SYSTEMS	1  
+INERTIAL SYSTEMS	1  
+LINEAR DYNAMIC OBJECT	1  
+LOGICAL BASIS	1  
+MEMBERSHIP FUNCTION	1  
+METHOD OF CONSTRUCTION	1  
+MULTI-LEVEL DIAGNOSTIC SYSTEM	1  
+MULTILEVEL SYSTEM	1  
+PASS BAND	1  
+PD AND PID CONTROLLER	1  
+PERIODIC PULSE SEQUENCE	1  
+PULSE TESTING SIGNALS	1  
+REGULATOR	1  
+RELATIONAL MODEL	1  
+RETINA DYNAMIC MODEL	1  
+RETINAL PATHOLOGY	1  
+SAMPLING STEP	1  
+SCIENTIFIC ACTIVITY	1  
+SEQUENCE OF RECTANGULAR TESTING PULSES	1  
+SINGLE TESTING PULSE	1  
+STABILITY	1  
+STABILIZING SYSTEMS	1  
+STOCHASTIC MODELS	1  
+TEAMWORK	1  
+TEMPERATURE REGULATION ALGORITHM OF THE HOTWATER SUPPLY SYSTEM	1  
+THE DIAGNOSTIC SUBSYSTEM OF THE LOWER LEVEL	1  
+юбрнлюрхгхпнбюммше яхярелш сопюбкемхъ	1  
+юбрнлюрхйю	1  
+юбрнлюрхйю х бшвхякхрекэмюъ реумхйю	1  
+юбрнлюрхйю х рекелеуюмхйю	1  
+юкцнпхрл пецскхпнбюмхъ релоепюрспш цбя	1  
+юлокхрсдмн-вюярнрмше уюпюйрепхярхйх	1  
+аюгю дюммшу	1  
+цюгноепейювхбючыхи юцпецюр	1  
+цюгноепейювхбючыху акнй	1  
+цнпъвее бнднямюафемхе	1  
+дхюцмнярхйю оюрнкнцхт	1  
+дхюцмнярхвеяйюъ ондяхярелю мхфмецн спнбмъ	1  
+дхмюлхйю	1  
+дхмюлхвеяйхе назейрш х яхярелш	1  
+дхмюлхвеяйхи назейр якнфмни ярпсйрспш	1  
+дхяйпермше яхярелш пецскхпнбюмхъ х сопюбкемхъ	1  
+днонкмхрекэмши щйярпелюкэмши пецскърнп	1  
+гюлймсрюъ яхярелю сопюбкемхъ	1  
+хдемрхтхйюжхъ оюпюлерпнб	1  
+хлхрюжхнммюъ ондярпюхбюелюъ лндекэ	1  
+хлоскэямши реярхпсчыхи яхцмюк	1  
+хмепжхюкэмше яхярелш йнмрпнкъ сярнивхбнярх	1  
+кхмеимши дхмюлхвеяйхи назейр	1  
+кнцхвеяйхи аюгхя	1  
+лерндхйю онярпнемхъ	1  
+лхйпнопнжеяянпмши йнмрпнккеп	1  
+лмнцнспнбмебюъ дхюцмнярхвеяйюъ яхярелю	1  
+лмнцнспнбмебюъ яхярелю	1  
+мюсвмюъ деърекэмнярэ	1  
+наыюъ пюяопедекеммюъ мюцпсгйю	1  
+ндхмнвмши реярхпсчыхи хлоскэя	1  
+ндмнбпелеммюъ пюанрю	1  
+нжхтпнбйю цпютхйю	1  
+оюпюккекэмюъ пюанрю	1  
+оюрнкнцхх яервюрйх	1  
+од х охд пецскърнпш	1  
+оепхндхвеяйюъ хлоскэямюъ онякеднбюрекэмнярэ	1  
+онякеднбюрекэмнярэ опълнсцнкэмшу реярхпсчыху хлоскэянб	1  
+опхбндмни дбхцюрекэ яхмупнммнцн цемепюрнпю	1  
+опхйкюдмше мюсйх. реумхйю	1  
+пецскърнп	1  
+пекъжхнммюъ лндекэ	1  
+перхмюкэмюъ оюрнкнцхъ	1  
+пхрлхвеяйюъ щкейрпнперхмнцпюллю	1  
+яхмупнммши цемепюрнп опхбндмшл дбхцюрекел	1  
+яхярелю ярюахкхгюжхх	1  
+яхярелш юбрнлюрхвеяйнцн сопюбкемхъ - дхяйперхгюжхъ	1  
+якедъыхе яхярелш	1  
+янблеярмюъ пюанрю	1  
+япедярбю юбрнлюрхгюжхх х сопюбкемхъ	1  
+ярнуюярхвеяйюъ лндекэ	1  
+ярнуюярхвеяйюъ лндекэ дхюцмнярхпселнцн назейрю	1  
+ренпхъ. хяякеднбюмхе	1  
+реумхвеяйхе япедярбю юбрнлюрхгюжхх	1  
+реумхвеяйхе япедярбю юбрнлюрхгюжхх х сопюбкемхъ	1  
+рпемюфеп	1  
+жемрпюкэмши реокнбни осмйр	1  
+вюярнрмюъ уюпюйрепхярхйю	1  
+вюярнрмше ябниярбю	1  
+вюярнрмше уюпюйрепхярхйх	1  
+вхякеммше лерндш	1  
+ьюц дхяйперхгюжхх	1  
+щйяоепрмюъ яхярелю дхюцмнярхйх	1  
+щкейрпнперхмнцпюллш	1  
+щмепцерхйю х щмепцерхвеяйне люьхмнярпнемхе	1  
+щмепцнщттейрхбмнярэ	1  
+чахкеи	1  
+
+NEURAL NETWORK	3  
+ARTIFICIAL NEURAL NETWORK	2  
+SECURITY	2  
+хяйсяярбеммюъ меипнммюъ яерэ	2  
+ANOMALIES DETECTION	1  
+ANOMALY DETECTION	1  
+ARTIFICIAL NEURAL NETWORKS	1  
+AUTHENTICATION	1  
+AUTOMATIC CONTROL SYSTEM	1  
+COMPUTER SIMULATION	1  
+CONTROL SYSTEM	1  
+CROSS-SITE SCRIPTING	1  
+CRYPTOGRAPHY	1  
+CUMULATIVE SUM METHOD	1  
+DYNAMIC RESPONSE	1  
+EDUCATIONAL SOFTWARE	1  
+INPUT-OUTPUT CROSS-CORRELATION	1  
+INTERNET OF THINGS	1  
+INTRUSION DETECTION	1  
+LIGHTWEIGHT INTRUSION DETECTION	1  
+NETWORK	1  
+NETWORK ATTACK	1  
+NEURAL NETWORK CONTROL SYSTEMS	1  
+NEURAL NETWORK SOFTWARE	1  
+NON-STATIONARY PLANT CONTROL	1  
+ONE-CLASS CLASSIFICATION	1  
+ONE-CLASS NEURAL NETWORK CLASSIFIER	1  
+OPEN SOURCE	1  
+OPTIMAL CONTROL	1  
+QUANTUM KEY DISTRIBUTION	1  
+QUANTUM RANDOM NUMBER GENERATOR	1  
+SQL INJECTION	1  
+STOCHASTIC CONDITIONS	1  
+TUTORIAL SOFTWARE	1  
+XSS ATTACK	1  
+юкцнпхрл йслскърхбмшу яслл	1  
+юсремрхтхйюжхъ	1  
+аегноюямнярэ	1  
+бмедпемхе ноепюрнпнб SQL	1  
+хмтнплюжхнммюъ аегноюямнярэ	1  
+хяйсяярбеммше меипнммше яерх	1  
+хяякеднбюмхъ	1  
+йбюмрнбне пюяопедекемхе йкчвеи	1  
+йбюмрнбши цемепюрнп яксвюимшу вхяек	1  
+йнлоэчрепмне лндекхпнбюмхе	1  
+йпхорнцпютхъ	1  
+лефяюирнбне бшонкмемхе яжемюпхеб	1  
+меипнммюъ яерэ	1  
+меипнммше яерх	1  
+меипняеребюъ яхярелю сопюбкемхъ	1  
+меипняеребше опнцпюллмше япедярбю	1  
+намюпсфемхе брнпфемхи	1  
+насвючыюъ опнцпюллю	1  
+ндмнйкюяянбши меипняеребни йкюяяхтхйюрнп	1  
+нопедекемхе юмнлюкхи	1  
+норхлюкэмне сопюбкемхе	1  
+яеребюъ юрюйю	1  
+яерэ	1  
+яхярелю юбрнлюрхвеяйнцн сопюбкемхъ	1  
+яхярелш сопюбкемхъ	1  
+ярнуюярхвеяйхе сякнбхъ	1  
+слмюъ кюлою	1  
+сопюбкемхе меярюжхнмюпмшл назейрнл	1  
+свеамюъ опнцпюллю	1  
+съгбхлнярх	1  
+щкейрпнрпюмяонпр	7  
+ELECTRIC VEHICLE	4  
+меверйхи кнцхвеяйхи бшбнд	4  
+щкейрпнопхбнд	4  
+ELECTRIC DRIVE	3  
+юййслскърнпмюъ аюрюпеъ	3  
+яервюрйю цкюгю	3  
+ясоепйнмдемяюрнп	3  
+щкейрпнперхмнцпюллю	3  
+BATTERY	2  
+ELECTRIC TRANSPORT	2  
+ELECTRORETINOGRAM	2  
+ENERGY	2  
+FUZZY LOGIC	2  
+FUZZY LOGIC INFERENCE	2  
+PATHOLOGY	2  
+RECUPERATION	2  
+RECUPERATOR	2  
+ULTRACAPACITOR	2  
+дхмюлхвеяйюъ лндекэ яервюрйх	2  
+лнрнп-йнкеян	2  
+меверйюъ кнцхйю	2  
+оюрнкнцхъ	2  
+пейсоепюрнп	2  
+пейсоепюжхъ	2  
+яхярелю дхюцмнярхйх	2  
+яхярелю нукюфдемхъ	2  
+тсмйжхх опхмюдкефмнярх	2  
+щмепцхъ	2  
+ACCESSORY FUNCTION	1  
+ADJUSTED SIMULATION MODEL	1  
+ALGORITHM	1  
+COMPLEX STRUCTURE DYNAMIC OBJECT	1  
+COOLING SYSTEM	1  
+CYCLE	1  
+DIAGNOSTIC SYSTEM	1  
+DIAGNOSTICS SYSTEM	1  
+DYNAMIC MODEL OF A RETINA	1  
+DYNAMIC OBJECT	1  
+EFFICIENCY	1  
+ELECTRIC VEHICLES	1  
+ENERGY LOSS	1  
+EXPERT DIAGNOSTICS SYSTEM	1  
+EYE RETINA	1  
+FUZZY LOGIC CONCLUSION	1  
+FUZZY STATEMENT	1  
+LOGICAL BASIS	1  
+MEMBERSHIP FUNCTION	1  
+MOTOR-WHEEL	1  
+OPTIMUM	1  
+REGULATOR	1  
+RELATIONAL MODEL	1  
+RETINA	1  
+RETINA DYNAMIC MODEL	1  
+RETINAL PATHOLOGY	1  
+RETURN FACTOR	1  
+SPECIFIC ENERGY CONSUMPTION	1  
+TRAFFIC CONDITIONS	1  
+юкцнпхрл	1  
+цнпндяйни рпюмяонпр	1  
+дхюцмнярхйю оюрнкнцхи	1  
+дхмюлхвеяйхи назейр	1  
+дхмюлхвеяйхи назейр якнфмни ярпсйрспш	1  
+гюлймсрюъ яхярелю сопюбкемхъ	1  
+хдемрхтхйюжхъ оюпюлерпнб	1  
+хлхрюжхнммюъ ондярпюхбюелюъ лндекэ	1  
+йнщттхжхемр бнгбпюрю	1  
+кнцхвеяйхи аюгхя	1  
+лхйпнопнжеяянпмши йнмрпнккеп	1  
+напюанрйю	1  
+норхлсл	1  
+онрепх	1  
+опхйкюдмше мюсйх. реумхйю	1  
+опнцпюллхпнбюмхе; PHP; MYSQL	1  
+пюяопедекеммше аюгш дюммшу;пеокхйюжхъ; WEB	1  
+пецскърнп	1  
+пекъжхнммюъ лндекэ	1  
+перхмюкэмюъ оюрнкнцхъ	1  
+яхцмюк	1  
+япедярбю юбрнлюрхгюжхх х сопюбкемхъ	1  
+ярпсйрспмюъ яуелю	1  
+реумхвеяйхе япедярбю юбрнлюрхгюжхх	1  
+реумхвеяйхе япедярбю юбрнлюрхгюжхх х сопюбкемхъ	1  
+сдекэмши пюяунд	1  
+сякнбхъ дбхфемхъ	1  
+жхйк	1  
+вепедсчыееяъ ьюулюрмне онке	1  
+щйяоепрмюъ яхярелю дхюцмнярхйх	1  
+щкейрпнрпюмяонпрмне япедярбн	1  
+щкейрпнрпюмяонпрмше япедярбю	1  
+щмепцерхйю х щмепцерхвеяйне люьхмнярпнемхе	1  
+щмепцнщттейрхбмнярэ	1  
+щттейрхбмнярэ	1  
+
+хмтнплюрхйю. мюсвмн-хмтнплюжхнммюъ деърекэмнярэ	2  
+хмтнплюжхнммн-онхяйнбше ъгшйх	2  
+хмтнплюжхнммн-онхяйнбше ъгшйх йкюяяхтхйюжхнммнцн рхою	2  
+йкюяяхтхйюрнпш	2  
+йскэрспю. мюсйю. опнябеыемхе	2  
+онхяй хмтнплюжхх. рхош хмтнплюжхнммнцн онхяйю	2  
+яхярелмши юмюкхг, сопюбкемхе х напюанрйю хмтнплюжхх (он нрпюякъл)	2  
+рхош хмтнплюжхнммн-онхяйнбшу ъгшйнб	2  
+упюмемхе х онхяй хмтнплюжхх	2  
+DATA AND TEXT MINING	1  
+DATA PROCESSING	1  
+DOCUMENTARY DATA	1  
+INTELLIGENT ANALYSIS	1  
+NEAREST NEIGHBORS WEIGHING METHODS	1  
+NON-PARAMETRIC CLASSIFICATION METHODS	1  
+TEXT CLASSIFICATION	1  
+TEXT MINING	1  
+TEXT RECOGNITION ALGORITHM	1  
+TRAINING SELECTION REDUCTION PROCEDURE	1  
+UNSTRUCTURED DATA	1  
+йкюяяхтхйюжхъ рейярнбни хмтнплюжхх	1  
+йнккейрхбш пеьючыху опюбхк	1  
+опедбюпхрекэмюъ напюанрйю дюммшу	1  
+хмтнплюжхнммюъ яхярелю	9  
+INFORMATION SYSTEM	6  
+лнмхрнпхмц	4  
+щмепцняаепефемхе	4  
+MONITORING	3  
+ачдфермне тхмюмяхпнбюмхе	3  
+цнясдюпярбеммне гюдюмхе	3  
+RISK MANAGEMENT	2  
+хмтнплюжхнммюъ онддепфйю	2  
+хмтнплюжхнммюъ яхярелю лнмхрнпхмцю	2  
+опнлшькеммюъ реокнщмепцерхйю	2  
+яхярелмши юмюкхг, сопюбкемхе х напюанрйю хмтнплюжхх (он нрпюякъл)	2  
+сопюбкемхе пхяйюлх	2  
+тхмюмянбне наеяоевемхе	2  
+щйяоксюрюжхъ	2  
+ASSOCIATIVE SYSTEM	1  
+BOLOGNA PROCESS	1  
+BUDGET INSTITUTIONS	1  
+BUDGET REFORM	1  
+BUDGET SECTOR	1  
+BUDGETARY FUNDING	1  
+CALCULATION OF FINANCIAL PROVISION	1  
+CLOUD COMPUTING	1  
+COMPLEX TECHNICAL-ORGANIZATIONAL SYSTEM	1  
+COMPLEX USER WORKSTATIONS	1  
+COMPLICATED SYSTEM	1  
+COMPONENT TECHNOLOGIES	1  
+CONDITIONS OF UNCERTAINTY	1  
+CONSUMPTION VOLUMES	1  
+DATA COLLECTION AND PROCESSING	1  
+DESIGN	1  
+DISTANCE-TYPE ENGINEERING EDUCATIN	1  
+DISTRIBUTED ARCHITECTURE	1  
+ECONOMY BRANCHES DONATED BY STATE BUDGET	1  
+EFFICIENCY ASSESSMENT	1  
+ELECTRONIC EDUCATIONAL RESOURCE	1  
+ENERGY MANAGEMENT	1  
+ENERGY-EFFICIENT ECONOMY	1  
+ENGINEERING EDUCATION	1  
+ESTIMATES	1  
+FEDERAL TARGET PROGRAM	1  
+FINANCIAL PLAN	1  
+FINANCIAL PROVISION	1  
+FINANCIAL-ECONOMIC ACTIVITY	1  
+FUEL AND ENERGY RESOURCES	1  
+FUNDING OF STATE JOB	1  
+FUZZY CLUSTERING	1  
+FUZZY COGNITIVE MODELING	1  
+FUZZY MODEL	1  
+FUZZY SETS	1  
+GENETIC ALGORITHMS	1  
+GOVERNMENT FUNDING	1  
+HIGHER TECHNICAL EDUCATION	1  
+HYDRODYNAMIC SITUATION	1  
+INDICATORS AND MONITORING INDICATORS	1  
+INFORMATION INTERACTION	1  
+INFORMATION PORTAL	1  
+INFORMATION SUPPORT	1  
+INFORMATION SYSTEM OF MONITORING	1  
+INFORMATION TECHNOLOGY	1  
+INFORMATION-ANALYTICAL SYSTEM	1  
+INFORMATION-METHODICAL MAINTENANCE	1  
+INFORMATION-STATISTICAL BASE	1  
+INTELLECTUAL SUPPORT OF DECISION-MAKING	1  
+INTERDISCIPLINARY PROGRAMS	1  
+INTERNAL FINANCIAL CONTROL	1  
+INTERNAL FINANCIAL CONTROL MAPS	1  
+INTERNATIONAL UNIVERSITY NETWORK PROJECT "SYNERGY"	1  
+INTERNATIONALIZATION OF PROGRAMS	1  
+INTERNET TECHNOLOGIES	1  
+INTERUNIVERSITY SCIENTIFIC AND EDUCATIONAL NETWORK	1  
+KNOWLEDGE SPECIES	1  
+MAKING DECISION SUPPORT	1  
+MAP FORMATION	1  
+MAP UPDATES	1  
+MAPLE	1  
+MATHCAD	1  
+MECHATRONICS	1  
+MONITORING OF FINANCIAL AND ECONOMIC ACTIVITY	1  
+MULTIEXTREMAL SEARCH	1  
+NEW TEACHING METHOD	1  
+OPERATION	1  
+OPERATIONAL CONTROL	1  
+OPERATIONS PLAN	1  
+PAYMENTS FOR COMMUNAL SERVICES	1  
+PLAN PREPARATION AND APPROVAL	1  
+PROCESS OPTIMIZATION	1  
+PRODUCTION AUTOMATION	1  
+PUBLIC SECTOR	1  
+QUALIFICATION	1  
+QUALITY EVALUATION OF SOFTWARE TOOLS	1  
+RESEARCH AND INFORMATION SYSTEM	1  
+ROBOTICS	1  
+STATE ORDER	1  
+STATE SERVICES	1  
+SUBORDINATE BUDGETARY INSTITUTIONS	1  
+SUBSIDIARY INSTITUTIONS AND ORGANIZATIONS	1  
+SUSTAINABLE DEVELOPMENT	1  
+THE BRANCH POWER	1  
+THE POWER SAVING UP PROJECT	1  
+THE POWER SAVINGS WHICH ARE POWER SAVING UP ACTION	1  
+THEORY OF AUTOMATIC CONTROL	1  
+THERMAL IMAGES	1  
+THERMOVISION METHOD	1  
+URBAN ELECTRIC POWER SYSTEM	1  
+WEB-BROWSER	1  
+WEB-апюсгеп	1  
+юбрнлюрхгюжхъ	1  
+юбрнлюрхгюжхъ опнхгбндярбю	1  
+юдлхмхярпюрхбмн-реумнкнцхвеяйне сопюбкемхе	1  
+юйрсюкхгюжхъ йюпр	1  
+юмюкнцнбши	1  
+юяянжхюрхбмюъ яхярелю	1  
+юяянжхюрхбмше сярпниярбю	1  
+анкнмяйхи опнжеяя	1  
+ачдфермюъ петнплю	1  
+ачдфермюъ ятепю	1  
+ачдфермне свпефдемхе	1  
+ачдфермше юяяхцмнбюмхъ	1  
+ачдфермше беднлярбю	1  
+ачдфермше нрпюякх щйнмнлхйх	1  
+ачдфермши яейрнп	1  
+бхдш гмюмхи	1  
+бмсрпеммхи тхмюмянбши йнмрпнкэ	1  
+бшяьее реумхвеяйне напюгнбюмхе	1  
+цемерхвеяйхе юкцнпхрлш	1  
+цхдпндхмюлхвеяйюъ наярюмнбйю	1  
+цнясдюпярбеммше сяксцх	1  
+цпюфдюмяйхе гдюмхъ х яннпсфемхъ	1  
+цпюфдюмяйне ярпнхрекэярбн	1  
+дхярюмжхнммне хмфемепмне напюгнбюмхе	1  
+гюдювю норхлхгюжхх	1  
+гюйнмндюрекэмюъ аюгю	1  
+хмфемепмне напюгнбюмхе	1  
+хмреккейрсюкэмюъ онддепфйю опхмърхъ пеьемхи	1  
+хмрепмюжхнмюкхгюжхъ опнцпюлл	1  
+хмрепмер-реумнкнцхх	1  
+хмтнплюжхнммюъ онддепфйю опнжеяянб	1  
+хмтнплюжхнммюъ реумнкнцхъ	1  
+хмтнплюжхнммн юмюкхрхвеяйюъ яхярелю	1  
+хмтнплюжхнммн-юмюкхрхвеяйюъ яхярелю	1  
+хмтнплюжхнммне бгюхлндеиярбхе	1  
+хмтнплюжхнммне наеяоевемхе	1  
+хмтнплюжхнммн-лерндхвеяйне наеяоевемхе	1  
+хмтнплюжхнммн-ярюрхярхвеяйюъ аюгю	1  
+хмтнплюжхнммши онпрюк	1  
+йюпрш бмсрпеммецн тхмюмянбнцн йнмрпнкъ	1  
+йбюкхтхйюжхъ	1  
+йкюярепхгюжхъ	1  
+йнллсмюкэмше сяксцх	1  
+йнлокейя юпл онкэгнбюрекеи	1  
+йнлокейямше пхяйх	1  
+йнлонмемрмше реумнкнцхх	1  
+йнлоэчрепмюъ цпютхйю х юмхлюжхъ	1  
+кнцхвеяйхе ноепюжхх	1  
+лефдхяжхокхмюпмюъ опнцпюллю	1  
+лефдсмюпндмши смхбепяхреряйхи мюсвмн-напюгнбю- рекэмши опнейр "яхмепцхъ"	1  
+лефдсмюпндмши смхбепяхреряйхи яеребни опнейр "яхмепцхъ"	1  
+лефсмхбепяхреряйюъ мюсвмн-напюгнбюрекэмюъ яерэ	1  
+лерндхйю пюяверю	1  
+лерндхвеяйне наеяоевемхе	1  
+леуюрпнмхйю	1  
+лмнцнщйярпелюкэмши онхяй	1  
+лндекэ бшвхякемхи	1  
+лнмхрнпхмц х сопюбкемхе йнлокейямшлх пхяйюлх	1  
+лнмхрнпхмц тхмюмянбн-унгъиярбеммни деърекэмнярх	1  
+меверйюъ лндекэ	1  
+меверйюъ нмрнкнцхвеяйюъ лндекэ	1  
+меверйхе лмнфеярбю	1  
+мнбши лернд насвемхъ	1  
+мнплхпнбюмхе х щйнмнлхъ щмепцхх	1  
+накювмше бшвхякемхъ	1  
+наз╗лш онрпеакемхъ	1  
+нцпюфдючыхе йнмярпсйжхх	1  
+ноепюрхбмши йнмрпнкэ	1  
+нокюрю йнллсмюкэмшу сяксц	1  
+норхлхгюжхъ опнжеяянб	1  
+нрпюякебне щмепцнонрпеакемхе	1  
+нжемйю йювеярбю опнцпюллмшу япедярб	1  
+нжемйю щттейрхбмнярх	1  
+окюм тхмюмянбн-унгъиярбеммни деърекэмнярх	1  
+окюмхпнбюмхе	1  
+ондбеднлярбеммше ачдфермше свпефдемхъ	1  
+ондбеднлярбеммше свпефдемхъ х нпцюмхгюжхх	1  
+онддепфйю опхмърхъ пеьемхи	1  
+онйюгюрекх х хмдхйюрнпш лнмхрнпхмцю	1  
+опхлемемхе бшвхякхрекэмни реумхйх, люрелюрхвеяйнцн лндекхпнбюмхъ х люрелюрхвеяйху лернднб б мюсвмшу хяякеднбюмхъу ( он нрпюякъл мюсй )	1  
+опнцмнгхпнбюмхе назелнб	1  
+опнейрхпнбюмхе	1  
+опнжеяяш сверю х хяонкмемхъ днундмни вюярх ачдферю	1  
+пюяопедекеммюъ юпухрейрспю	1  
+пюявер тхмюмянбнцн наеяоевемхъ	1  
+пнанрнреумхйю	1  
+пняяхияйюъ тедепюжхъ	1  
+псапхжхпнбюмхе	1  
+яOMPLEX RISKS	1  
+яанп х напюанрйю дюммшу	1  
+яанп х напюанрйю хмтнплюжхх	1  
+якнфмюъ нпцюмхгюжхнммн-реумхвеяйюъ яхярелю	1  
+якнфмюъ яхярелю	1  
+якнфмюъ щйнмнлхвеяйюъ яхярелю	1  
+янцкюьемхе н онпъдйе х сякнбхъу опеднярюбкемхъ ясаяхдхи	1  
+яоняна онярпнемхъ	1  
+ярпнхрекэярбн	1  
+ярпсйрспю хмтнплюжхнммнцн наеяоевемхъ	1  
+рюпхтш	1  
+ренпхъ юбрнлюрхвеяйнцн сопюбкемхъ	1  
+реокнбхгхнммше хгнапюфемхъ	1  
+реокнбхгхнммши лернд	1  
+реокнбхгнпш	1  
+реокнбше лерндш	1  
+реокнбше онрепх гдюмхи	1  
+реокноепедювю вепег ябернмеопнгпювмше нцпюфдемхъ гдюмхи	1  
+реокноепедювю вепег яремйх реокнреумнкнцхвеяйху сярюмнбнй	1  
+реумхвеяйюъ дхюцмнярхйю	1  
+реумхвеяйне наяксфхбюмхе	1  
+рнокхбмн-щмепцерхвеяйюъ аюгю	1  
+рнокхбмн-щмепцерхвеяйхе пеяспяш	1  
+рнокхбмн-щмепцерхвеяйхи пеяспя	1  
+сопюбкемхе	1  
+сопюбкемхе щмепцняаепефемхел	1  
+сякнбхъ менопедекеммнярх	1  
+свеамхй дкъ бшяьеи ьйнкш	1  
+тедепюкэмюъ жекебюъ опнцпюллю	1  
+тхгхвеяйхе лерндш дхюцмнярхйх	1  
+тхмюмянбне Oаеяоевемхе цнясдюпярбеммнцн гюдюмхъ	1  
+тхмюмянбн-унгъиярбеммюъ деърекэмнярэ	1  
+тхмюмянбн-унгъиярбеммюъ деърекэмнярэ ондбеднлярбеммшу свпефдемхи	1  
+тнплхпнбюмхе х лнмхрнпхмц хяонкмемхъ окюмнб	1  
+тнплхпнбюмхе х србепфдемхе окюмю	1  
+тнплхпнбюмхе йюпр	1  
+жхтпнбни х цхапхдмши йнлоэчреп	1  
+векнбевеяйхи тюйрнп	1  
+щйнмнлхйю	1  
+щйнмнлхйн-люрелюрхвеяйхе лерндш х лндекх	1  
+щкейрпнммше меярпсйрспхпнбюммше рейярнбше днйслемрш	1  
+щкейрпнммши напюгнбюрекэмши пеяспя	1  
+щкелемрш х дерюкх гдюмхи	1  
+щмепцерхйю	1  
+щмепцерхвеяйхи юсдхр гдюмхи	1  
+щмепцерхвеяйне унгъиярбн. щмепцнямюафемхе	1  
+щмепцнонрпеакемхе	1  
+щмепцняаепецючыюъ опнцпюллю	1  
+щмепцняаепецючыее лепнопхърхе	1  
+щмепцняаепецючыхи опнейр	1  
+щмепцнщттейрхбмюъ щйнмнлхйю	1  
+щмепцнщттейрхбмнярэ	1  
+меверйхи кнцхвеяйхи бшбнд	6  
+меверйхи пецскърнп	6  
+FUZZY LOGIC INFERENCE	5  
+IDENTIFICATION	5  
+хдемрхтхйюжхъ	5  
+FUZZY LOGIC	4  
+меверйюъ кнцхйю	4  
+щкейрпнперхмнцпюллю	4  
+APPROXIMATING MODEL	3  
+FUZZY CONTROLLER	3  
+MEMBERSHIP FUNCTION	3  
+RELATIONAL MODEL	3  
+STATIC CHARACTERISTIC	3  
+юоопнйяхлхпсчыюъ лндекэ	3  
+ярюрхвеяйюъ уюпюйрепхярхйю	3  
+тсмйжхх опхмюдкефмнярх	3  
+DIAGNOSTIC SYSTEM	2  
+ELECTRORETINOGRAM	2  
+FUZZY REGULATOR	2  
+FUZZY RELATIONAL MODEL	2  
+LOGICAL BASIS	2  
+MEASURE OF SIGNIFICANCE	2  
+NONLINEAR DYNAMIC OBJECT	2  
+PATHOLOGY	2  
+PD-CONTROLLER	2  
+RETINA	2  
+TRUTH DEGREES	2  
+юбрнлюрхйю	2  
+юбрнлюрхйю х рекелеуюмхйю	2  
+юцпецхпнбюмхе ондсякнбхи	2  
+дхмюлхвеяйюъ лндекэ яервюрйх	2  
+кнцхвеяйхи аюгхя	2  
+лернд щйяонмемжхюкэмни лндскъжхх	2  
+лндскхпсчыхе тсмйжхх	2  
+мекхмеимши дхмюлхвеяйхи назейр	2  
+мекхмеимши дхмюлхвеяйхи щкелемр	2  
+меверйхе кнцхвеяйхе пецскърнпш	2  
+меверйхи кнцхвеяйхи пецскърнп	2  
+оюрнкнцхъ	2  
+од пецскърнп	2  
+пюанвхи свюярнй	2  
+пекъжхнммюъ лндекэ	2  
+яервюрйю цкюгю	2  
+яхярелю дхюцмнярхйх	2  
+яреоемэ гмювхлнярх	2  
+свеамхй дкъ бшяьеи ьйнкш	2  
+тсмйжхъ опхмюдкефмнярх	2  
+вюярнрмше уюпюйрепхярхйх	2  
+A STOCHASTIC MODEL OF THE DIAGNOSED OBJECT	1  
+ACCESSORY FUNCTION	1  
+ADAPTIVE CONTROL MECHANISM	1  
+ADJUSTED SIMULATION MODEL	1  
+AGGREGATION OF SUB-CONDITIONS	1  
+AGGREGATION OF THE SUB-CONDITIONS	1  
+BOILER DRUM	1  
+BOUNDARY CONDITIONS	1  
+CLASSIFICATION	1  
+COMPLEX STRUCTURE DYNAMIC OBJECT	1  
+CONTROL SYSTEM	1  
+CORPORATE COMPUTER NETWORKS	1  
+DIAGNOSTICS SYSTEM	1  
+DYNAMIC CHARACTERISTICS	1  
+DYNAMIC MODEL OF A RETINA	1  
+DYNAMIC OBJECT	1  
+ERG	1  
+EXPERT DIAGNOSTICS SYSTEM	1  
+EXPONENTIAL MODULATION METHOD	1  
+EYE RETINA	1  
+FREQUENCY CHARACTERISTIC	1  
+FUZZY CONTROL SYSTEM	1  
+FUZZY LOGIC CONCLUSION	1  
+FUZZY LOGIC CONTROLLER	1  
+FUZZY SET	1  
+FUZZY SITUATION	1  
+FUZZY STATEMENT	1  
+GAIN-FREQUENCY CHARACTERISTIC	1  
+HASSE DIAGRAM	1  
+HEAT CONDUCTION EQUATION	1  
+HIERARCHICAL STRUCTURE	1  
+IDENTIFICATION OF DYNAMIC OBJECTS	1  
+IRRATIONAL TRANSFER FUNCTION	1  
+KNOWLEDGE BASE	1  
+MEMBERSHIP FUNCTIONS	1  
+METHOD OF CONSTRUCTION	1  
+METHOD OF EXPONENTIAL MODULATION	1  
+MODULATING FUNCTIONS	1  
+MULTI-LEVEL DIAGNOSTIC SYSTEM	1  
+MULTILEVEL SYSTEM	1  
+NON-LINEAR DYNAMIC ELEMENT	1  
+NONLINEAR PLANT	1  
+OPERATING AREA	1  
+OPERATING AREA IS PROPOSED	1  
+PD-REGULATOR	1  
+PHASE FREQUENCY CHARACTERISTIC	1  
+PLANT WITH DISTRIBUTED PARAMETERS	1  
+PRIORITY USERS	1  
+QUALITY RATING	1  
+RETINA DYNAMIC MODEL	1  
+RETINAL PATHOLOGY	1  
+RULE BASE	1  
+SOFTWARE-DEFINED NETWORKING	1  
+SPECTRUM	1  
+STOCHASTIC MODELS	1  
+SUB-CONCLUSIONS ACTIVATION	1  
+SUB-CONDITIONS AGGREGATION	1  
+THE DIAGNOSTIC SUBSYSTEM OF THE LOWER LEVEL	1  
+TRANSIENT PROCESS	1  
+TRANSITIVELY CLOSED LINKS	1  
+TRIANGULAR NORM	1  
+WATER LEVEL CONTROL	1  
+юбрнлюрхгюжхъ	1  
+юбрнлюрхвеяйхе яхярелш якнфмше	1  
+юдюорхбмюъ яхярелю сопюбкемхъ	1  
+юйрхбхгюжхъ ондгюйкчвемхи	1  
+юкцнпхрлхгюжхъ	1  
+юкцнпхрлш меверйнцн кнцхвеяйнцн бшбндю	1  
+юлокхрсдмн-вюярнрмюъ уюпюйрепхярхйю	1  
+аюгю гмюмхи	1  
+аюгю опюбхк	1  
+детюггхтхйюжхъ	1  
+дхюцмнярхйю	1  
+дхюцмнярхвеяйюъ ондяхярелю мхфмецн спнбмъ	1  
+дхюцпюллю уюяяе	1  
+дхмюлхвеяйхе уюпюйрепхярхйх	1  
+дхмюлхвеяйхи назейр	1  
+дхмюлхвеяйхи назейр якнфмни ярпсйрспш	1  
+хдемрхтхйюжхъ дхмюлхвеяйху назейрнб	1  
+хепюпухвеяйюъ ярпсйрспю	1  
+хлхрюжхнммюъ ондярпюхбюелюъ лндекэ	1  
+йкюяяхтхйюжхъ	1  
+люрелюрхвеяйхе лерндш	1  
+лерндхйю онярпнемхъ	1  
+лмнцнспнбмебюъ дхюцмнярхвеяйюъ яхярелю	1  
+лмнцнспнбмебюъ яхярелю	1  
+лндекхпнбюмхе опнжеяянб	1  
+мюдефмнярэ	1  
+мекхмеимши назейр	1  
+меверйюъ пекъжхнммюъ лндекэ	1  
+меверйюъ яхрсюжхъ	1  
+меверйхе пекъжхнммше лндекх	1  
+меверйне лмнфеярбн	1  
+оепеундмши опнжеяя	1  
+онхяй щйярпелслю	1  
+онйюгюрекх йювеярбю	1  
+опнейрхпнбюмхе	1  
+перхмюкэмюъ оюрнкнцхъ	1  
+яхярелю сопюбкемхъ	1  
+яхярелю сопюбкемхъ дхмюлхвеяйхлх назейрюлх	1  
+яхярелш сопюбкемхъ реумхвеяйхлх назейрюлх	1  
+якнфмше яхярелш юбрнлюрхйх	1  
+яоейрп	1  
+ярюрхвеяйхе уюпюйрепхярхйх	1  
+яреоемэ хярхммнярх	1  
+ярнуюярхвеяйюъ лндекэ	1  
+ярнуюярхвеяйюъ лндекэ дхюцмнярхпселнцн назейрю	1  
+ренпхъ	1  
+ренпхъ бепнърмняреи, меверйюъ кнцхйю	1  
+рнвмнярэ нжемхбюмхъ	1  
+рпюмгхрхбмн гюлшйючыхе дсцх	1  
+рпесцнкэмюъ мнплю	1  
+сопюбкемхе б реумхвеяйху яхярелюу	1  
+тюгнбюъ вюярнрмюъ уюпюйрепхярхйю	1  
+тсмйжхнмюкэмнярэ	1  
+щйяоепрмюъ яхярелю дхюцмнярхйх	1  
+щкейрпнщпнгхнммюъ напюанрйю	1  
+

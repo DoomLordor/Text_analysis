@@ -8,9 +8,9 @@ int main() {
 
 	cout << "Произвести анализ ключевых слов? \n";
 
-	string anser;
+	string anser = "yes";
 	
-	cin >> anser;
+	//cin >> anser;
 
 	if (capital_letter(anser) == "YES") {
 		
@@ -54,7 +54,7 @@ int main() {
 		sort_array(teachers);
 
 		teacher_profiles(teachers, test_word, frequency_teachers);
-
+		//вывод профиля кафедры
 		ofstream output_file("output.txt");
 		for (size_t i = 0; i < test_word.size(); i++) {
 			output_file << test_word[i];
@@ -64,7 +64,7 @@ int main() {
 			output_file << test_frequency[i] << endl;
 		}
 		output_file.close();
-
+		// вывод матрицы слово - преподватель
 		ofstream output_file1("output1.txt");
 		output_file1 << "\t\t\t";
 		for (size_t i = 0; i < teachers.size(); i++) {
@@ -81,7 +81,7 @@ int main() {
 			}
 		}
 		output_file.close();
-
+		// вывод косинусной меры близости 
 		ofstream output_file_comparison_cos("output_comparison_cos.txt");
 		output_file_comparison_cos << "\t\t";
 		for (size_t i = 0; i < teachers.size(); i++) {
@@ -103,7 +103,7 @@ int main() {
 		}
 		output_file_comparison_cos.close();
 		
-		
+		// вывод евклидовой мерыы близости
 		ofstream output_file_comparison_evcl("output_comparison_evcl.txt");
 		output_file_comparison_evcl << "\t\t";
 		for (size_t i = 0; i < teachers.size(); i++) {
@@ -113,9 +113,9 @@ int main() {
 		for (size_t i = 0; i < teachers.size(); i++) {
 			output_file_comparison_evcl << endl << teachers[i].surname << ' ' << teachers[i].name[0] << '.' << teachers[i].patronymic[0] << ".\t";
 			for (size_t j = 0; j < teachers.size(); j++) {
-					output_file_comparison_evcl << fixed;
-					output_file_comparison_evcl.precision(6);
-					output_file_comparison_evcl << euclidean_value(frequency_teachers[i], frequency_teachers[j]) << '\t';
+				output_file_comparison_evcl << fixed;
+				output_file_comparison_evcl.precision(6);
+				output_file_comparison_evcl << euclidean_value(frequency_teachers[i], frequency_teachers[j]) << '\t';
 			}
 		}
 		output_file_comparison_evcl.close();
@@ -124,8 +124,8 @@ int main() {
 	}
 	
 	cout << "Произвести анализ содержания курсов? \n";
-	
-	cin >> anser;
+	anser = "NO";
+	//cin >> anser;
 	
 	if (capital_letter(anser) == "YES") {
 		vector <string> word_course;
